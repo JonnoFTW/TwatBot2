@@ -1,0 +1,6 @@
+plugins/*.pyc
+*.pyc
+keys
+admins
+ignores
+greets
