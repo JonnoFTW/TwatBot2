@@ -1,0 +1,7025 @@
+(dp1
+Vacta est fabula plaudite
+p2
+VThe play has been performed; applaud!
+p3
+sVJohn 19:20states that this inscription was written in three languages: Aramaic, Latin and Greek at the top of thecrossduring the crucifixion ofJesus of Nazereth.
+p4
+V
+sVprobatio pennae
+p5
+Vtesting of the pen
+p6
+sVnon constat
+p7
+Vit is not certain
+p8
+sVnon compos mentis
+p9
+Vnot in control of the mind
+p10
+sVcur Deus Homo
+p11
+VWhy the God-Man
+p12
+sVArcana imperii
+p13
+VInvisible power
+p14
+sVab urbe condita(a.u.c.)
+p15
+Vfrom the city having been founded
+p16
+sVubi societas ibi ius
+p17
+Vif there's a society, law will be there
+p18
+sVergo
+p19
+Vtherefore
+p20
+sVin vivo veritas
+p21
+Vin a living thing [there is] truth
+p22
+sVstet fortuna domus
+p23
+Vlet the fortune of the house stand
+p24
+sVtempora mutantur et nos mutamur in illis
+p25
+Vthe times are changing, and we change in them
+p26
+sVsub silentio
+p27
+Vunder silence
+p28
+sVad kalendas graecas
+p29
+Vat the GreekCalends
+p30
+sVrari nantes in gurgite vasto
+p31
+VRare survivors in the immense sea
+p32
+sVfidus Achates
+p33
+VfaithfulAchates
+p34
+sVnil sine labore
+p35
+Vnothing without labour
+p36
+sVcor unum
+p37
+Vone heart
+p38
+sVclausum fregit
+p39
+V&#160;
+p40
+sVsine scientia ars nihil est
+p41
+Vwithout knowledge, skill is nothing
+p42
+sVstipendium peccati mors est
+p43
+Vthe reward of sin is death
+p44
+sVtalium regnum Deitalium Dei regnum
+p45
+Vfor of such (little children) is the kingdom of God
+p46
+sVarbiter elegantiarum
+p47
+Vjudge of tastes
+p48
+sVad usum Delphini
+p49
+Vfor the use of theDauphin
+p50
+sVnon sibi, sed patriae
+p51
+VNot for self, but for Country.
+p52
+sVVivat Slovakia!
+p53
+VLong live Slovakia!
+p54
+sVin harmonia progressio
+p55
+Vprogress in harmony
+p56
+sVincepto ne desistam
+p57
+VMay I not shrink from my purpose!
+p58
+sVsic transit gloria mundi
+p59
+Vthus passes the glory of the world
+p60
+sVrestitutio in integrum
+p61
+Vrestoration to original condition
+p62
+sVex parte
+p63
+Vfrom a part
+p64
+sVprincipia probant non probantur
+p65
+Vprinciples prove; they are not proved
+p66
+sVvideo et taceo
+p67
+VI see and keep silent
+p68
+sVaquila non capit muscas
+p69
+Van eagle doesn't catch flies
+p70
+sVad interim(ad int)
+p71
+Vfor the meantime
+p72
+sVet lux in tenebris lucet
+p73
+VAnd light shines in the darkness
+p74
+sVratione personae
+p75
+Vbecause of the person involved
+p76
+sVpro hac vice
+p77
+Vfor this occasion
+p78
+sVterra nullius
+p79
+Vland of none
+p80
+sVpost meridiem(p.m.)
+p81
+Vafter midday
+p82
+sVDominus vobiscum
+p83
+VLord be with you
+p84
+sVquae non prosunt singula multa iuvant
+p85
+Vwhat alone is not useful helps when accumulated
+p86
+sVsimilia similibus solvuntur
+p87
+Vsimilar substances will dissolve similar substances
+p88
+sVstercus accidit
+p89
+Vshit happens
+p90
+sVfides quae creditur
+p91
+Vthe faith which is believed
+p92
+sVrigor mortis
+p93
+Vstiffness of death
+p94
+sVnil sine numine
+p95
+Vnothing without the divine will
+p96
+sVcaput inter nubila (condit)
+p97
+V(he plunges) [his] head in the clouds
+p98
+sVvolenti non fit injuria
+p99
+Vto one willing, no harm is done
+p100
+sVomnia mutantur, nihil interit
+p101
+Veverything changes, nothing perishes
+p102
+sVin nocte consilium
+p103
+Vadvice comes over night
+p104
+sVGraecia capta ferum victorem cepit
+p105
+VConquered Greece in turn defeated its savage conqueror
+p106
+sVin flore
+p107
+Vin blossom
+p108
+sVfalsus in uno, falsus in omnibus
+p109
+Vfalse in one, false in all
+p110
+sVdatum perficiemus munus
+p111
+VMission given, mission accomplished
+p112
+sVEx Oblivione
+p113
+Vfrom oblivion
+p114
+sVpiscem natare docem
+p115
+Vteach fish to swim
+p116
+sVnon sibi, sed omnibus
+p117
+VNot for one's self but for all.
+p118
+sVEx turpi causa non oritur actio
+p119
+VFrom a dishonorable cause an action does not arise
+p120
+sVignotum per ignotius
+p121
+Vunknown by means of the more unknown
+p122
+sVsumma cum laude
+p123
+Vwith highest praise
+p124
+sVtanquam ex ungue leonem
+p125
+Vwe know the lion by his claw
+p126
+sVnil nisi bonum
+p127
+V(about the dead say) nothing unless (it is) good
+p128
+sVtu quoque
+p129
+Vyou too
+p130
+sVurbs in horto
+p131
+Vcity in a garden
+p132
+sVcrescente luce
+p133
+VLight ever increasing
+p134
+sVpost cibum(p.c.)
+p135
+Vafter food
+p136
+sVemeritus
+p137
+Vveteran
+p138
+sVin rerum natura
+p139
+Vin the nature of things
+p140
+sVsic utere tuo ut alienum non laedas
+p141
+Vuse [what is] yours so as not to harm [what is] of others
+p142
+sVfacio liberos ex liberis libris libraque
+p143
+V"I make free adults out of children by means of books and a balance."
+p144
+sVgenius loci
+p145
+Vspirit of place
+p146
+sVnota bene(n.b.)
+p147
+Vmark well
+p148
+sVsed ipse spiritus postulat pro nobis, gemitibus inenarrabilibus
+p149
+VBut the same Spirit intercedes incessantly for us, with inexpressible groans
+p150
+sVet alii(et al.)
+p151
+Vand others
+p152
+sVmemores acti prudentes futuri
+p153
+Vmindful of what has been done, aware of what will be
+p154
+sVde bonis asportatis
+p155
+Vcarrying goods away
+p156
+sVlucus a non lucendo
+p157
+V[it is] a grove by not being light
+p158
+sVcontra principia negantem non est disputandum
+p159
+Vthere can be no debate with those who deny the foundations
+p160
+sVbona patria
+p161
+Vgoods of a country
+p162
+sVMater semper certa est
+p163
+VThe mother is always certain
+p164
+sVpro se
+p165
+Vfor oneself
+p166
+sVtempus vernum
+p167
+Vspring time
+p168
+sValis aquilae
+p169
+Von an eagle's wings
+p170
+sVPontifex Maximus
+p171
+VGreatest High Priest
+p172
+sVesse quam videri
+p173
+Vto be, rather than to seem
+p174
+sVmalum quo communius eo peius
+p175
+Vthe more common an evil is, the worse it is
+p176
+sVtranslatio imperii
+p177
+Vtransfer of rule
+p178
+sVnon serviam
+p179
+VI will not serve
+p180
+sVut prosim
+p181
+Vthat I may serve
+p182
+sVconsuetudo pro lege servatur
+p183
+VCustom is held as law.
+p184
+sVbonum commune hominis
+p185
+Vcommon good of a man
+p186
+sVmirabile visu
+p187
+Vwonderful to see
+p188
+sVab initio
+p189
+Vfrom the beginning
+p190
+sVsuum cuique tribuere
+p191
+Vto render to every man his due
+p192
+sVde dato
+p193
+Vof the date
+p194
+sVpost scriptum(p.s.)
+p195
+Vafter what has been written
+p196
+sValias
+p197
+Vat another time, otherwise
+p198
+sVut sit finis litium
+p199
+Vso there might be an end of litigation
+p200
+sVprima facie
+p201
+Vat first sight
+p202
+sVsic semper erat, et sic semper erit
+p203
+VThus has it always been, and thus shall it ever be
+p204
+sVChristo et Doctrinae
+p205
+VForChristand Learning
+p206
+sVvivere est vincere
+p207
+VTo live is to conquer
+p208
+sVhaec olim meminisse iuvabit
+p209
+Vone day, this will be pleasing to remember
+p210
+sVtempus fugit
+p211
+Vtime flees
+p212
+sVpropter vitam vivendi perdere causas
+p213
+Vto destroy the reasons for living for the sake of life
+p214
+sViuventutis veho fortunas
+p215
+VI bear the fortunes of youth
+p216
+sVbellum se ipsum alet\u200e
+p217
+Vwar feeds itself
+p218
+sVlux in Domino
+p219
+Vlight in the Lord
+p220
+sVidem quod(i.q.)
+p221
+Vthe same as
+p222
+sVhac lege
+p223
+Vwith this law
+p224
+sVOmnes homines sunt asini vel homines et asini sunt asini
+p225
+VAll men are donkeys or men and donkeys are donkeys
+p226
+sVad victoriam
+p227
+Vto victory
+p228
+sVutrinque paratus
+p229
+Vready for anything
+p230
+sVobiter dictum
+p231
+Va thing said in passing
+p232
+sVin girum imus nocte et consumimur igni
+p233
+VWe enter the circle at night and are consumed by fire
+p234
+sVhoc est enim corpus meum
+p235
+VThis is my Body
+p236
+sVvis legis
+p237
+Vpower of the law
+p238
+sVhic et nunc
+p239
+Vhere and now
+p240
+sVnunquam non paratus
+p241
+Vnever unprepared
+p242
+sVsublimis ab unda
+p243
+VRaised from the waves
+p244
+sVmea navis aëricumbens anguillis abundat
+p245
+VMy hovercraft is full of eels
+p246
+sVaut viam inveniam aut faciam
+p247
+VI will either find a way or make one
+p248
+sVabsolvo
+p249
+VI acquit
+p250
+sVdecus et tutamen
+p251
+VAn ornament and a safeguard
+p252
+sVin personam
+p253
+Vinto a person
+p254
+sVin toto
+p255
+Vin all
+p256
+sVcanis canem edit
+p257
+Vdog eats dog
+p258
+sVin salvo
+p259
+Vin safety
+p260
+sVigitur qui desiderat pacem, praeparet bellum
+p261
+VTherefore whoever desires peace, let him prepare for war
+p262
+sVquaecumque sunt vera
+p263
+Vwhatsoever is true
+p264
+sVsub specie aeternitatis
+p265
+Vunder the sight of eternity
+p266
+sVfiat iustitia et pereat mundus
+p267
+Vlet justice be done, though the world shall perish
+p268
+sVreductio ad absurdum
+p269
+Vleading back to the absurd
+p270
+sVDeo juvante
+p271
+Vwith God's help
+p272
+sVnaturam expellas furca, tamen usque recurret.
+p273
+VYou may drive out Nature with a pitchfork, yet she still will hurry back.
+p274
+sVcoram Deo
+p275
+Vin the Presence of God
+p276
+sVveritas, fides, sapientia
+p277
+VTruth, Faith, Wisdom
+p278
+sVveritatem fratribus testari
+p279
+Vto bear witness to the truth in brotherhood
+p280
+sVvirtute et armis
+p281
+Vby virtue and arms
+p282
+sVnon nobis solum
+p283
+Vnot for ourselves alone
+p284
+sVsapientia et doctrina
+p285
+Vwisdom and learning
+p286
+sVprima luce
+p287
+Vat dawn
+p288
+sVbellum omnium contra omnes
+p289
+Vwar of all against all
+p290
+sVper unitatem vis
+p291
+Vthrough unity, strength
+p292
+sVin luce Tua videmus lucem
+p293
+Vin Thy light we see light
+p294
+sVsurdo oppedere
+p295
+Vto belch before the deaf
+p296
+sVre
+p297
+V[in] the matter of
+p298
+sVscientia ipsa potentia est
+p299
+Vknowledge itself is power
+p300
+sVsubsiste sermonem statim
+p301
+Vstop speaking immediately
+p302
+sVad litem
+p303
+Vto the lawsuit
+p304
+sVveto
+p305
+VI forbid
+p306
+sVconcordia cum veritate
+p307
+Vin harmony with truth
+p308
+sVCaedite eos. Novit enim Dominus qui sunt eius.
+p309
+VKill them. For the Lord knows those who are his.
+p310
+sVin pace requiescat
+p311
+Vin peace may he rest
+p312
+sVdraco dormiens nunquam titillandus
+p313
+Va sleepingdragonis never to be tickled
+p314
+sVGloria filiorum patres
+p315
+VThe glory of sons is their fathers (Proverbs17:6)
+p316
+sVubertas et fidelitas
+p317
+Vfertility and faithfulness
+p318
+sVa bene placito
+p319
+Vfrom one well pleased
+p320
+sVfacile princeps
+p321
+Veasily the first
+p322
+sVcontra legem
+p323
+Vagainst the law
+p324
+sVex libris
+p325
+Vfrom the books
+p326
+sVtimeo Danaos et dona ferentes
+p327
+VI fear Greeks even if they bring gifts
+p328
+sVet hoc genus omne
+p329
+VAnd all that sort of thing
+p330
+sVnoster nostri
+p331
+VLiterally "Our ours"
+p332
+sVomne ignotum pro magnifico
+p333
+Vevery unknown thing [is taken] for great
+p334
+sVdisce quasi semper victurus vive quasi cras moriturus
+p335
+VLearn as if always going to live; live as if tomorrow going to die.
+p336
+sVpax in terra
+p337
+Vpeace on earth
+p338
+sVviva voce
+p339
+Vliving voice
+p340
+sVquantum sufficit(qs)
+p341
+Vas much as is enough
+p342
+sVtempus rerum imperator
+p343
+Vtime, commander of all things
+p344
+sVmale captus bene detentus
+p345
+Vwrongly captured, properly detained
+p346
+sVquod est(q.e.)
+p347
+Vwhich is
+p348
+sVres, non verba
+p349
+Vactions speak louder than words
+p350
+sVab hincorabhinc
+p351
+Vfrom here on
+p352
+sVducunt volentem fata, nolentem trahunt
+p353
+VThe fates lead the willing and drag the unwilling
+p354
+sVad absurdum
+p355
+Vto the absurd
+p356
+sVcrescat scientia vita excolatur
+p357
+Vlet knowledge grow, let life be enriched
+p358
+sVin manus tuas commendo spiritum meum
+p359
+Vinto your hands I entrust my spirit
+p360
+sVaurum potestas est
+p361
+Vgold is power
+p362
+sVcorpus delicti
+p363
+Vbody of the offence
+p364
+sVAstra inclinant, sed non obligant
+p365
+VThe stars incline us, they do not bind us
+p366
+sVex umbra in solem
+p367
+Vfrom the shadow into the light
+p368
+sVin vacuo
+p369
+Vin a void
+p370
+sVaudemus jura nostra defendere
+p371
+Vwe dare to defend our rights
+p372
+sVuno flatu
+p373
+Vin one breath
+p374
+sVvenisti remanebis donec denuo completus sis
+p375
+VFrom whence you came, you shall remain, until you are complete again
+p376
+sVs.v.
+p377
+V
+sVin camera
+p378
+Vin the chamber
+p379
+sVnunc scio quid sit amor
+p380
+Vnow I know what love is
+p381
+sVauctoritas
+p382
+Vauthority
+p383
+sVbeatus homo qui invenit sapientiam
+p384
+Vblessed is the man who finds wisdom
+p385
+sVubi non accusator ibi non iudex
+p386
+Vwhere [there is] no accuser, there [is] no judge
+p387
+sVvinculum juris
+p388
+V"the chain of the law", i.e. legally binding
+p389
+sVfelix qui potuit rerum cognoscere causas
+p390
+Vhappy is he who can discover the causes of things
+p391
+sVoculus dexter(O.D.)
+p392
+Vright eye
+p393
+sVgaudeamus hodie
+p394
+Vlet us rejoice today
+p395
+sVex opere operantis
+p396
+Vfrom the work of the one working
+p397
+sVbibo ergo sum
+p398
+VI drink, therefore I am
+p399
+sVcave canem
+p400
+VBeware of the dog
+p401
+sVpia fraus
+p402
+Vpious fraud
+p403
+sVcui prodest
+p404
+Vfor whom it advances
+p405
+sValibi
+p406
+Velsewhere
+p407
+sVlocus classicus
+p408
+Va classic place
+p409
+sVad perpetuam memoriam
+p410
+Vto the perpetual memory
+p411
+sVnullum magnum ingenium sine mixtura dementiae fuit
+p412
+VThere has been no great wisdom without an element of madness
+p413
+sVCorpus Iuris Civilis
+p414
+VBody of Civil Law
+p415
+sVluceat lux vestra
+p416
+VLet your light shine
+p417
+sValterum non laedere
+p418
+Vto not wound another
+p419
+sVveritas in caritate
+p420
+VTruth Through Caring
+p421
+sVnon sum qualis eram
+p422
+VI am not such as I was
+p423
+sVin com. Ebor.
+p424
+VIn the county of Yorkshire
+p425
+sVgradatim ferociter
+p426
+Vby degrees, ferociously
+p427
+sVvincit qui se vincit
+p428
+Vhe/she conquers who conquers himself/herself
+p429
+sVstricto sensucf. sensu stricto
+p430
+Vwith the tight meaning
+p431
+sVtimidi mater non flet
+p432
+VA coward's mother does not weep
+p433
+sVSpartam nactus es; hanc exorna
+p434
+Vyour lot is cast in Sparta, be a credit to it
+p435
+sVCorpus Christi
+p436
+VBody of Christ
+p437
+sVcum hoc ergo propter hoc
+p438
+Vwith this, therefore on account of this
+p439
+sVius primae noctis
+p440
+Vlaw of the first night
+p441
+sVDeus meumque jus
+p442
+VGod and my right
+p443
+sVvisio dei
+p444
+VVision of a god
+p445
+sVquem di diligunt adulescens moritur
+p446
+Vhe whom the gods love dies young
+p447
+sVCarthago delenda est
+p448
+VCarthage must be destroyed
+p449
+sVsolus Christus
+p450
+VChristalone
+p451
+sVacta non verba
+p452
+VDeeds, not Words
+p453
+sVsub rosa
+p454
+Vunder the rose
+p455
+sVab intra
+p456
+Vfrom within
+p457
+sVsub specie Dei
+p458
+Vunder the sight of God
+p459
+sVradix malorum est cupiditas
+p460
+Vthe root of evils is desire
+p461
+sVdum Roma deliberat Saguntum perit
+p462
+Vwhile Rome debates,Saguntumis in danger
+p463
+sVage quod agis
+p464
+VDo what you are doing.
+p465
+sVnemo tenetur seipsum accusare
+p466
+Vno one is bound to accuse himself
+p467
+sVAve Imperator, morituri te salutant
+p468
+VHail, Emperor! Those who are about to die salute you!
+p469
+sVcorruptissima re publica plurimae leges
+p470
+VWhen the republic is at its most corrupt the laws are most numerous
+p471
+sVveritas vincit
+p472
+Vtruth conquers
+p473
+sVsemper idem
+p474
+Valways the same
+p475
+sVspiritus ubi vult spirat
+p476
+Vthe spirit spreads wherever it wants
+p477
+sVdocendo discitur
+p478
+VIt is learned by teaching
+p479
+sVplus ultra
+p480
+Vfurther beyond
+p481
+sVlex hac edictali
+p482
+Vthe law here proclaims
+p483
+sVcaput mortuum
+p484
+Vdead head
+p485
+sVnemo nisi per amicitiam cognoscitur
+p486
+VNo one learns except by friendship
+p487
+sVex glande quercus
+p488
+Vfrom acorn to oak
+p489
+sVexperto crede
+p490
+Vtrust the expert
+p491
+sVpecunia non olet
+p492
+Vmoney doesn't smell
+p493
+sVde omnibus dubitandum
+p494
+Vbe suspicious of everything, doubt everything
+p495
+sVPax Hispanica
+p496
+VSpanish Peace
+p497
+sViura novit curia
+p498
+Vthe court knows the law
+p499
+sVvideo meliora proboque deteriora sequor
+p500
+VI see and approve of the better, but I follow the worse
+p501
+sViure uxoris
+p502
+Vin right of his wife
+p503
+sVveritas vos liberabit
+p504
+Vthe truth will set you free
+p505
+sVNemo igitur vir magnus sine aliquo adflatu divino umquam fuit
+p506
+VNo great man ever existed who did not enjoy some portion of divine inspiration
+p507
+sVomnibus locis fit caedes
+p508
+VLet there be slaughter everywhere
+p509
+sVveritas omnia vincit
+p510
+VTruth conquers all
+p511
+sVsapientia et virtus
+p512
+Vwisdom and virtue
+p513
+sVdux bellorum
+p514
+Vwar leader
+p515
+sVPax Europaea
+p516
+VEuropean peace
+p517
+sVad referendum(ad ref)
+p518
+Vto be proposed [before the Senate]
+p519
+sVdamnatio memoriae
+p520
+Vdamnation of memory
+p521
+sVpinxit
+p522
+Vone painted
+p523
+sVin statu nascendi
+p524
+Vin the state of being born
+p525
+sVabundans cautela non nocet
+p526
+Vabundant caution does no harm
+p527
+sVcarpe diem
+p528
+Vseize the day
+p529
+sVsalva veritate
+p530
+Vwith truth intact
+p531
+sVstat sua cuique dies
+p532
+VThere is a day [turn] for everybody
+p533
+sVvincere scis Hannibal victoria uti nescis
+p534
+Vyou know [how] to win,Hannibal; you do not know [how] to use victory
+p535
+sVesto perpetua
+p536
+Vmay it be perpetual
+p537
+sVipse dixit
+p538
+Vhe himself said it
+p539
+sVsursum corda
+p540
+VLift up your hearts
+p541
+sVin limine
+p542
+Vat the outset/threshold
+p543
+sVscientia cum religione
+p544
+Vreligion and knowledge united
+p545
+sVspeculum speculorum
+p546
+Vmirror of mirrors
+p547
+sVIesus Nazarenus Rex Iudaeorum(INRI)
+p548
+VJesusofNazareth, King of the Jews
+p549
+sVinter arma enim silent leges
+p550
+Vin a time of war, the law falls silent
+p551
+sVqui transtulit sustinet
+p552
+Vhe who transplanted still sustains
+p553
+sVadaequatio intellectus et rei
+p554
+Vcorrespondence of the mind and reality
+p555
+sViuventuti nil arduum
+p556
+Vto the young nothing is difficult
+p557
+sVnon sequitur
+p558
+Vit does not follow
+p559
+sVsensus plenior
+p560
+Vin the fuller meaning
+p561
+sVAmat victoria curam
+p562
+VVictory favors care
+p563
+sVPax Domine
+p564
+Vpeace, lord
+p565
+sVpostera crescam laude
+p566
+Vwe grow in the esteem of future generations
+p567
+sVante cibum(a.c.)
+p568
+Vbefore food
+p569
+sVdixi
+p570
+VI have spoken
+p571
+sVdata venia
+p572
+V"with due respect" or "given the excuse"
+p573
+sVCaesar non supra grammaticos
+p574
+VCaesar has no authority over the grammarians
+p575
+sVsalus populi suprema lex esto
+p576
+Vthe welfare of the people is to be the highest law
+p577
+sVpro patria vigilans
+p578
+Vwatchful for the country
+p579
+sVconfer(cf.)
+p580
+Vconfer[7][8]
+p581
+sVveritas odit moras
+p582
+VTruth hates delay
+p583
+sVdamnum absque injuria
+p584
+Vdamage without injury
+p585
+sVscire quod sciendum
+p586
+Vknowledge which is worth having
+p587
+sVcharta pardonationis se defendendo
+p588
+Va paper of pardon to defend oneself
+p589
+sValis volat propriis
+p590
+Vshe flies with her own wings
+p591
+sVsapienti sat
+p592
+Venough for the wise
+p593
+sVvincit omnia veritas
+p594
+VTruth conquers all
+p595
+sVvita, dulcedo, spes
+p596
+V[Mary our] life, sweetness, hope
+p597
+sVsine anno(s.a.)
+p598
+Vwithout a year
+p599
+sVgaudium in veritate
+p600
+Vjoy in truth
+p601
+sVtestis unus, testis nullus
+p602
+Vone witness is not a witness
+p603
+sVPraga totius Bohemiae domina
+p604
+VPrague, the mistress of the whole of Bohemia
+p605
+sVcanes pugnaces
+p606
+Vwar dogsorfighting dogs
+p607
+sVquod me nutrit me destruit
+p608
+Vwhat nourishes me destroys me
+p609
+sVmagister dixit
+p610
+Vthe teacher has said it
+p611
+sVvide supra(v.s.)
+p612
+V"see above"
+p613
+sVtempus edax rerum
+p614
+Vtime, devourer of all things
+p615
+sVneca eos omnes, deus suos agnoscet
+p616
+Vkill them all, God will know his own.
+p617
+sVstamus contra malo
+p618
+Vwe stand against by evil
+p619
+sVsedes apostolica
+p620
+Vapostolicchair
+p621
+sVgraviora manent
+p622
+Vheavier things remain
+p623
+sVlegio patria nostra
+p624
+VThe Legion is our fatherland
+p625
+sVcastigat ridendo mores
+p626
+VOne corrects customs by laughing at them
+p627
+sVad terminum qui praeteriit
+p628
+Vfor the term which has passed
+p629
+sVDominus Illuminatio Mea
+p630
+Vthe Lord is my light
+p631
+sVditat Deus
+p632
+VGod enriches
+p633
+sVratio legis
+p634
+Vreasoning of law
+p635
+sVsemper primus
+p636
+Valways first
+p637
+sVab utili
+p638
+Vfrom utility
+p639
+sVunus multorum
+p640
+Vone of many
+p641
+sVomnis traductor traditor
+p642
+Vevery translator is a traitor
+p643
+sVabsit iniuria verbis(orinjuria)
+p644
+Vlet injury be absent from [these] words
+p645
+sVDeo ac veritati
+p646
+VFor God and for truth
+p647
+sVDomine dirige nos
+p648
+VLord guide us
+p649
+sVsine remediis medicina debilis est
+p650
+Vwithout remedies medicine is powerless
+p651
+sVaccipe hoc
+p652
+VTake this
+p653
+sVnon in legendo sed in intelligendo legis consistunt
+p654
+Vthe laws depend not on being read, but on being understood
+p655
+sVet facta est lux
+p656
+VAnd light came to beorwas made
+p657
+sVvirile agitur
+p658
+V"The manly thing is being done"
+p659
+sVonus probandi
+p660
+Vburden of proof
+p661
+sVveritas Christo et ecclesiae
+p662
+VTruth for Christ and Church
+p663
+sVaudi, vide, tace
+p664
+Vhear, see, be silent
+p665
+sVper angusta ad augusta
+p666
+Vthrough difficulties to greatness
+p667
+sVsine timore aut favore
+p668
+VWithout Fear or Favor
+p669
+sVars [est] celare artem
+p670
+Vart [is] to conceal art
+p671
+sVDa mihi factum, dabo tibi ius
+p672
+VGive me the fact(s), I'll give you the law
+p673
+sVparens patriae
+p674
+Vparent of the nation
+p675
+sVhinc illae lacrimae
+p676
+Vhence those tears
+p677
+sVet tu, Brute?
+p678
+VAnd you,Brutus?
+p679
+sVInfinitus est numerus stultorum.
+p680
+VInfinite is the number of fools.
+p681
+sVVeritas Iustitia Libertas
+p682
+VTruth Justice Liberty
+p683
+sVa mari usque ad mare
+p684
+Vfrom sea to sea
+p685
+sVqua definitione
+p686
+Vby virtue of definition
+p687
+sVclavis aurea
+p688
+Vgolden key
+p689
+sVsol iustitiae illustra nos
+p690
+VSun of Justice, shine upon us
+p691
+sVpro Brasilia fiant eximia
+p692
+Vlet exceptional things be made for Brazil
+p693
+sVordo ab chao
+p694
+Vout of chaos, comes order
+p695
+sVLegend states that when the evangelist went to the lagoon where Venice would later be founded, an angel came and said so.[33]The first part is depicted as the note in the book shown opened by the lion ofSt Mark's Basilica, Venice; registered trademark of theAssicurazioni Generali, Trieste.[34]
+p696
+V
+sVbona notabilia
+p697
+Vnote-worthy goods
+p698
+sVfortunae meae, multorum faber
+p699
+Vartisan of my fate and that of several others
+p700
+sVnon ducor, duco
+p701
+VI am not led; I lead
+p702
+sVerrantis voluntas nulla est
+p703
+Vthe will of a mistaken party is void
+p704
+sVactus me invito factus non est meus actus
+p705
+Vthe act done by me against my will is not my act
+p706
+sVimago Dei
+p707
+Vimage of God
+p708
+sVtuebor
+p709
+VI will protect
+p710
+sVsunt lacrimae rerum
+p711
+Vthere are tears for things
+p712
+sVde facto
+p713
+Vby deed
+p714
+sVad abundantiam
+p715
+Vto abundance
+p716
+sVdolus specialis
+p717
+Vspecial intent
+p718
+sVecce panis angelorum
+p719
+Vbehold the bread of angels
+p720
+sVexeunt
+p721
+Vthey leave
+p722
+sVin Deo speramus
+p723
+Vin God we hope
+p724
+sVquod licet Iovi, non licet bovi
+p725
+Vwhat is permitted toJupiteris not permitted to an ox
+p726
+sVservabo fidem
+p727
+VKeeper of the faith
+p728
+sVmorituri nolumus mori
+p729
+Vwe who are about to die don't want to
+p730
+sVcontraria contrariis curantur
+p731
+Vthe opposite is cured with the opposite
+p732
+sVdelectatio morosa
+p733
+Vpeevish delight
+p734
+sVex pede Herculem
+p735
+Vfrom Hercules' foot
+p736
+sVo tempora, o mores
+p737
+VOh, the times! Oh, the morals!
+p738
+sVAnno Domini(A.D.)
+p739
+Vin the Year of the Lord
+p740
+sVpro tempore
+p741
+Vfor the time
+p742
+sVsalvo honoris titulo(SHT)
+p743
+Vsave for title of honor
+p744
+sVnil satis nisi optimum
+p745
+Vnothing [is] enough unless [it is] the best
+p746
+sVpunctum saliens
+p747
+Vleaping point
+p748
+sVmortuum flagellas
+p749
+Vyou are flogging a dead
+p750
+sVubi bene ibi patria
+p751
+Vwhere [it is] well, there [is] the fatherland
+p752
+sVgutta cavat lapidem [non vi sed saepe cadendo]
+p753
+Va water drop hollows a stone [not by force, but by falling often]
+p754
+sVquod gratis asseritur, gratis negatur
+p755
+Vwhat is asserted without reason may be denied without reason
+p756
+sVad lucem
+p757
+Vto the light
+p758
+sVius ad bellum
+p759
+Vlaw towards war
+p760
+sVad vitam aeternam
+p761
+Vtoeternal life
+p762
+sVsine poena nulla lex
+p763
+VWithout penalty, there is no law
+p764
+sVfortis in arduis
+p765
+Vstrong in difficulties
+p766
+sVquo vadis?
+p767
+VWhere are you going?
+p768
+sVsensu lato
+p769
+Vwith the broad, or general, meaning
+p770
+sVcorrigenda
+p771
+Vthings to be corrected
+p772
+sVterras irradient
+p773
+Vlet them illuminate the lands
+p774
+sVper crucem vincemus
+p775
+Vthrough the cross we shall conquer
+p776
+sVfidem scit
+p777
+VHe knows the faith
+p778
+sVa falsis principiis proficisci
+p779
+Vto set forth from false principles
+p780
+sVsol lucet omnibus
+p781
+Vthe sun shines on everyone
+p782
+sVbarba tenus sapientes
+p783
+Vwise as far as the beard
+p784
+sVhic abundant leones
+p785
+Vhere lions abound
+p786
+sVin fide scientiam
+p787
+VTo our faith add knowledge
+p788
+sVNatura valde simplex est et sibi consona
+p789
+VNature is exceedingly simple and harmonious with itself.
+p790
+sVet cetera(etc.)or(&amp;c.)
+p791
+VAnd the rest
+p792
+sVter in die(t.i.d.)
+p793
+Vthrice in a day
+p794
+sVad mortem
+p795
+VTo death
+p796
+sVlex rex
+p797
+Vthe law [is] king
+p798
+sVfons sapientiae, verbum Dei
+p799
+Vthe fount of knowledge is the word of God.
+p800
+sVcura te ipsum
+p801
+Vtake care of your own self
+p802
+sVmiserabile visu
+p803
+Vterrible by the sight
+p804
+sVvi et animo
+p805
+VWith heart and soul
+p806
+sVPer fidem intrepidus
+p807
+VFearless through Faith.
+p808
+sVnulli secundus
+p809
+Vsecond to none
+p810
+sVsalus in arduis
+p811
+Va stronghold (or refuge) in difficulties
+p812
+sVper procura(p.p.)or(per pro)
+p813
+Vthrough the agency
+p814
+sVhortus in urbe
+p815
+VA garden in the city
+p816
+sVnatura nihil frustra facit
+p817
+Vnature does nothing in vain
+p818
+sVserviam
+p819
+VI will serve
+p820
+sVUnus papa Romae, unus portus Anconae, una turris Cremonae, una ceres Raconae
+p821
+VOne pope in Rome, one port in Ancona, one tower in Cremona, one beer inRakovník
+p822
+sVbis in die(bid)
+p823
+Vtwice in a day
+p824
+sVut proverbium loguitur vetus...
+p825
+Vyou know what they say...
+p826
+sVut Roma cadit, sic omnis terra
+p827
+Vas Rome falls, so [falls] the whole world
+p828
+sVquia suam uxorem etiam suspiciore vacare vellet
+p829
+Vbecause he should wish even his wife to be free from suspicion
+p830
+sVrosa rubicundior, lilio candidior, omnibus formosior, semper in te glorior
+p831
+Vredder than the rose, whiter than the lilies, fairer than all things, I do ever glory in thee
+p832
+sVvelut arbor aevo
+p833
+VAs a tree with the passage of time
+p834
+sVlux sit
+p835
+Vlet there be light
+p836
+sVper pedes
+p837
+Vby feet
+p838
+sVper mare per terram
+p839
+VBy Sea and by Land
+p840
+sVmodus operandi(M.O.)
+p841
+Vmethod of operating
+p842
+sVvivat rex
+p843
+VMay the King live!
+p844
+sVlectori salutem
+p845
+Vgreetings reader
+p846
+sVpro fide et patria
+p847
+Vfor faith and fatherland
+p848
+sVpro aris et focis
+p849
+VFor God and country
+p850
+sVfiat voluntas Dei
+p851
+VMay God's will be done
+p852
+sVquousque tandem?
+p853
+VFor how much longer?
+p854
+sVesto quod es
+p855
+Vbe what you are
+p856
+sVfloreat etona
+p857
+Vmay Eton flourish
+p858
+sVauri sacra fames
+p859
+Vaccursed hunger for gold
+p860
+sVhorribile dictu
+p861
+Vhorrible to say
+p862
+sVpraemonitus praemunitus
+p863
+Vforewarned is forearmed
+p864
+sVDucit amor patriae
+p865
+VLove of country leads me
+p866
+sVaffidavit
+p867
+Vhe asserted
+p868
+sVDei Gratia Regina
+p869
+VBy the Grace of God, Queen
+p870
+sVde jure
+p871
+Vby law
+p872
+sVerga omnes
+p873
+Vin relation to everyone
+p874
+sVignis fatuus
+p875
+Vfoolish fire
+p876
+sVapparatus criticus
+p877
+Vtools of a critic
+p878
+sVcitius altius fortius
+p879
+Vfaster, higher, stronger
+p880
+sVsui generis
+p881
+VOf its own kind
+p882
+sVvox populi
+p883
+Vvoice of the people
+p884
+sVrecte et fideliter
+p885
+VUpright and Faithful
+p886
+sVdeus otiosus
+p887
+VGod at leisure
+p888
+sVveritas, bonitas, pulchritudo, sanctitas
+p889
+VTruth, Goodness, Beauty, and Holiness
+p890
+sVcontradictio in terminis
+p891
+Vcontradiction in terms
+p892
+sVsunt omnes unum
+p893
+Vthey are all one
+p894
+sVCaritas in Veritate
+p895
+VCharity in Truth
+p896
+sVvirtus tentamine gaudet
+p897
+VStrength rejoices in the challenge.
+p898
+sVut incepit fidelis sic permanet
+p899
+Vas she began loyal, so she persists
+p900
+sVhominem non morbum cura
+p901
+VTreat the Man, not the Disease
+p902
+sVin umbra, igitur, pugnabimus
+p903
+VThen we will fight in the shade
+p904
+sVper ardua ad alta
+p905
+Vthrough hard work, great heights are achieved
+p906
+sVprimas sum: primatum nil a me alienum puto
+p907
+VI am a primate; nothing about primates is outside of my bailiwick
+p908
+sVcum laude
+p909
+Vwith praise
+p910
+sVcontemptus mundi/saeculi
+p911
+Vscorn for the world/times
+p912
+sVarguendo
+p913
+Vfor arguing
+p914
+sVVerbum Dei
+p915
+VWord of God
+p916
+sVhoras non numero nisi serenas
+p917
+VI do not count the hours unless they are sunny
+p918
+sVpropria manu(p.m.)
+p919
+V"by one's own hand".
+p920
+sVquare clausum fregit
+p921
+Vwherefore he broke the close
+p922
+sVsupero omnia
+p923
+VI surpass everything
+p924
+sVsemper fidelis
+p925
+Valways faithful
+p926
+sVin spe
+p927
+Vin hope
+p928
+sVin foro
+p929
+Vin forum
+p930
+sVab irato
+p931
+Vfrom an angry man
+p932
+sVvae victis
+p933
+VWoe to the conquered!
+p934
+sValenda lux ubi orta libertas
+p935
+VLight [is] to be nourished where liberty [has] arisen.
+p936
+sVorbis non sufficit
+p937
+Vthe world does not sufficeorthe world is not enough
+p938
+sVmors certa, hora incerta
+p939
+Vdeath is certain, its hour is uncertain
+p940
+sVnon prosequitur
+p941
+Vhe does not proceed
+p942
+sVveritas curat
+p943
+VThe Truth Cures.
+p944
+sVSancta Sedes
+p945
+VHoly Chair
+p946
+sVmultis e gentibus vires
+p947
+Vfrom many peoples, strength
+p948
+sVpulchrum est paucorum hominum
+p949
+VBeauty is for the few
+p950
+sVnosce te ipsum
+p951
+Vknow thyself
+p952
+sVexperientia docet
+p953
+Vexperience teaches
+p954
+sVpax et lux
+p955
+Vpeace and light
+p956
+sVassecuratus non quaerit lucrum sed agit ne in damno sit
+p957
+Vthe assured does not seek profit but makes [it his profit] that he not be in loss
+p958
+sVmagnum opus
+p959
+Vgreat work
+p960
+sVsemper ubi sub ubi
+p961
+Valways where under where
+p962
+sVnon sibi, sed suis
+p963
+VNot for one's self but for one's own.
+p964
+sVignis aurum probat
+p965
+Vfire tests gold
+p966
+sVexceptio firmat(orprobat)regulam in casibus non exceptis
+p967
+VThe exception confirms the rule in cases which are not excepted
+p968
+sVhora fugit
+p969
+Vthe hour flees
+p970
+sVculpa
+p971
+Vfault
+p972
+sVin omnibus requiem quaesivi, et nusquam inveni nisi in angulo cum libro
+p973
+VEverywhere I have searched for peace and nowhere found it, except in a corner with a book
+p974
+sVinter alia(i.a.)
+p975
+Vamong other things
+p976
+sVquaque hora(qh)
+p977
+Vevery hour
+p978
+sVquestio quid iuris
+p979
+VI ask what law?
+p980
+sVLaborare pugnare parati sumus
+p981
+VTo work, (or) to fight; we are ready
+p982
+sVnavigare necesse est vivere non est necesse
+p983
+Vto sail is necessary; to live is not necessary
+p984
+sVterminus ante quem
+p985
+Vlimit before which
+p986
+sVO Deus Ego Amo Te
+p987
+VO God I Love You
+p988
+sVsum quod sum
+p989
+VI am what I am
+p990
+sVsemper eadem
+p991
+Valways the same
+p992
+sVin re
+p993
+Vin the matter [of]
+p994
+sVGloria in excelsis Deo
+p995
+VGlory to God in the Highest
+p996
+sVnulla tenaci invia est via
+p997
+VFor the tenacious, no road is impassable.
+p998
+sVgeneratim discite cultus
+p999
+VLearn each field of study according to its kind. (Virgil,GeorgicsII.)
+p1000
+sVterra nova
+p1001
+Vnew land
+p1002
+sVimperium sine fine
+p1003
+Van empire without an end
+p1004
+sVtu ne cede malis, sed contra audentior ito
+p1005
+Vyou should not give in to evils, but proceed ever more boldly against them
+p1006
+sVe unibus pluram
+p1007
+Vpluramout of ones(not being Latin, this has no proper translation)
+p1008
+sVIohannes est nomen eius
+p1009
+VJohn is his name / Juan es su Nombre
+p1010
+sVex vulgus scientia
+p1011
+Vfrom crowd, knowledge
+p1012
+sVinter vivos
+p1013
+Vbetween the living
+p1014
+sVsic et non
+p1015
+Vthus and not
+p1016
+sVex vi termini
+p1017
+Vfrom the force of the term
+p1018
+sVab aeterno
+p1019
+Vfrom the eternal
+p1020
+sVhostis humani generis
+p1021
+Venemy of the human race
+p1022
+sVverbi gratia(v.gr. or VG)
+p1023
+Vfor example
+p1024
+sVsemper in excretia sumus solim profundum variat
+p1025
+VWe're always in the manure; only the depth varies.
+p1026
+sVmare clausum
+p1027
+Vclosed sea
+p1028
+sVex fide fiducia
+p1029
+Vfrom faith [comes] confidence
+p1030
+sVnisi Dominus frustra
+p1031
+Vif not the Lord, [it is] in vain
+p1032
+sVagere sequitur credere
+p1033
+Vaction follows belief
+p1034
+sVsemper ad meliora
+p1035
+Valways towards better things
+p1036
+sVquod est necessarium est licitum
+p1037
+Vwhat is necessary is lawful
+p1038
+sVquot homines tot sententiae
+p1039
+Vhow many people, so many opinions
+p1040
+sVfere libenter homines id quod volunt credunt
+p1041
+Vmen generally believe what they want to
+p1042
+sVfecisti patriam diversis de gentibus unam
+p1043
+V"From differing peoples you have made one native land"
+p1044
+sVvocatus atque non vocatus Deus aderit
+p1045
+Vcalled and not called, God will be present
+p1046
+sVactus reus
+p1047
+Vguilty act
+p1048
+sVlux et lex
+p1049
+Vlight and law
+p1050
+sVsapientia et veritas
+p1051
+Vwisdom and truth
+p1052
+sVave Europa nostra vera Patria
+p1053
+VHail, Europe, our true Fatherland!
+p1054
+sVsuos cultores scientia coronat
+p1055
+VKnowledge crowns those who seek Her
+p1056
+sVad astra per alas porci
+p1057
+Vto the stars on the wings of a pig
+p1058
+sVcetera desunt
+p1059
+Vthe rest are missing
+p1060
+sVex Africa semper aliquid novi
+p1061
+VAlways something new from Africa (literallysomething of new)
+p1062
+sVex supra(e.s.) cf.ex infra
+p1063
+V"from above"
+p1064
+sVratione soli
+p1065
+Vby account of the ground
+p1066
+sVdisiecta membra
+p1067
+Vscattered limbs
+p1068
+sVsub poena
+p1069
+Vunder penalty
+p1070
+sVteneo te Africa
+p1071
+VI hold you, Africa!
+p1072
+sVmortui vivos docent
+p1073
+VThe dead teach the living
+p1074
+sVnon omnis moriar
+p1075
+VI shall not all die
+p1076
+sVUbique, quo fas et gloria ducunt
+p1077
+Veverywhere, where right and glory leads
+p1078
+sVnemo mortalium omnibus horis sapit
+p1079
+VNo mortal is wise at all times
+p1080
+sVauspicium melioris aevi
+p1081
+Vhope/token of a better age
+p1082
+sVnihil obstat
+p1083
+Vnothing prevents
+p1084
+sVscientia, aere perennius
+p1085
+Vknowledge, more lasting than bronze
+p1086
+sVnemo iudex in causa sua
+p1087
+Vno man shall be a judge in his own cause
+p1088
+sVad nauseam
+p1089
+Vto seasickness
+p1090
+sVexcusatio non petita accusatio manifesta
+p1091
+Van excuse that has not been sought [is] an obvious accusation
+p1092
+sVsic passim
+p1093
+VThus here and there
+p1094
+sVinfirma mundi elegit Deus
+p1095
+VGod chooses the weak of the world
+p1096
+sVet uxor(et ux.)
+p1097
+Vand wife
+p1098
+sVdum spiro spero
+p1099
+Vwhile I breathe, I hope
+p1100
+sVper rectum(pr)
+p1101
+Vthrough the rectum
+p1102
+sVcharta pardonationis utlagariae
+p1103
+Va paper of pardon to the outlaw
+p1104
+sVGrandescunt Aucta Labore
+p1105
+VBy hard work, all things increase and grow
+p1106
+sVde novo
+p1107
+Vfrom the new
+p1108
+sVex mero motu
+p1109
+Vout of mere impulse, or of one's own accord.
+p1110
+sVgesta non verba
+p1111
+Vdeeds, not words
+p1112
+sVde minimisnon curat lex
+p1113
+VThe law does not bother with the smallest things.
+p1114
+sVPolonia Restituta
+p1115
+VRebirth ofPoland
+p1116
+sVvelle est posse
+p1117
+V"To be willing is to be able."(non-literal: "Where there's a will, there's a way.")
+p1118
+sVdonatio mortis causa
+p1119
+Vgiving in expectation of death
+p1120
+sVDeo domuique
+p1121
+Vfor God and for home
+p1122
+sVlex loci
+p1123
+Vlaw of the place
+p1124
+sViustitia omnibus
+p1125
+Vjustice for all
+p1126
+sVin nomine Domini
+p1127
+Vin the name of the Lord
+p1128
+sVcucullus non facit monachum
+p1129
+VThe hood does not make the monk
+p1130
+sVnihil dicit
+p1131
+Vhe says nothing
+p1132
+sVtertium non datur
+p1133
+Va third is not given
+p1134
+sVGloria Patri
+p1135
+VGlory to the Father
+p1136
+sVin saeculo
+p1137
+Vin the times
+p1138
+sVexcelsior
+p1139
+Vhigher
+p1140
+sVex opere operato
+p1141
+Vfrom the work worked
+p1142
+sVcor meum tibi offero domine prompte et sincere
+p1143
+Vmy heart I offer to you Lord promptly and sincerely
+p1144
+sVubi panis ibi patria
+p1145
+Vwhere there is bread, there is my country
+p1146
+sVmalum in se
+p1147
+Vwrong in itself
+p1148
+sVcoram publico
+p1149
+Vin view of the public
+p1150
+sVDeus vult
+p1151
+VGod wills it!
+p1152
+sValterius non sit qui suus esse potest
+p1153
+VLet no man be another's who can be his own
+p1154
+sVnec tamen consumebatur
+p1155
+Vand yet it was not consumed
+p1156
+sVmiscerique probat populos et foedera jungi
+p1157
+VHe approves of the mingling of the peoples and their bonds of union
+p1158
+sVvia, veritas, vita
+p1159
+VThe Way, the Truth and the Life
+p1160
+sVextra territorium jus dicenti impune non paretur
+p1161
+Vhe who administers justice outside of his territory is disobeyed with impunity
+p1162
+sVgradibus ascendimus
+p1163
+Vascending by degrees
+p1164
+sVmanibus date lilia plenis
+p1165
+Vgive lilies with full hands
+p1166
+sVhomo sum humani a me nihil alienum puto
+p1167
+VI am a human being; nothing human is strange to me
+p1168
+sVfac fortia et patere
+p1169
+Vdo brave deeds and endure
+p1170
+sVpax tecum
+p1171
+Vpeace be with you
+p1172
+sVvita ante acta
+p1173
+Va life done before
+p1174
+sVPer Crucem Crescens
+p1175
+Vthrough the cross, growth
+p1176
+sVfiat voluntas tua
+p1177
+VThy will be done
+p1178
+sVsub divo
+p1179
+Vunder the wide open sky
+p1180
+sVverbatim et litteratim
+p1181
+Vword for word and letter by letter
+p1182
+sVmors vincit omnia
+p1183
+Vdeath conquers all" or "death always wins
+p1184
+sVab absurdo
+p1185
+Vfrom the absurd
+p1186
+sVpro tanto
+p1187
+Vfor so much
+p1188
+sVtalis qualis
+p1189
+Vjust as such
+p1190
+sVet suppositio nil ponit in esse
+p1191
+Vand a supposition puts nothing in being
+p1192
+sVomne vivum ex ovo
+p1193
+Vevery living thing is from an egg
+p1194
+sVcadavera vero innumera
+p1195
+Vtruly countless bodies
+p1196
+sVhonoris causa
+p1197
+Vfor the sake of honor
+p1198
+sVlex dei vitae lampas
+p1199
+Vthe law of God is the lamp of life
+p1200
+sVconcordia salus
+p1201
+Vwell-being through harmony
+p1202
+sVdeus ex machina
+p1203
+Va god from a machine
+p1204
+sVopere laudato(op. laud.)
+p1205
+V&#160;
+p1206
+sVmateria medica
+p1207
+Vmedical matter
+p1208
+sVcamera obscura
+p1209
+Vdark chamber
+p1210
+sVtres faciunt collegium
+p1211
+Vthree makes company
+p1212
+sVnon sibi
+p1213
+VNot for self.
+p1214
+sVquem deus vult perdere, dementat prius
+p1215
+VWhom the gods would destroy, they first make insane
+p1216
+sVnihil boni sine labore
+p1217
+Vnothing achieved without hard work
+p1218
+sVsic semper tyrannis
+p1219
+Vthus always to tyrants
+p1220
+sVab intestato
+p1221
+Vfrom anintestate
+p1222
+sVex mea sententia
+p1223
+Vin my opinion
+p1224
+sVnumen lumen
+p1225
+VGod our light
+p1226
+sVparvis imbutus tentabis grandia tutus
+p1227
+VWhen you are steeped in little things, you shall safely attempt great things.
+p1228
+sVmorituri te salutant
+p1229
+Vthose who are about to die salute you
+p1230
+sVspem reduxit
+p1231
+Vhe has restored hope
+p1232
+sVsit sine labe decus
+p1233
+Vlet honour stainless be
+p1234
+sVintra vires
+p1235
+Vwithin the powers
+p1236
+sVex oriente lux
+p1237
+Vlight from the east
+p1238
+sVlocus standi
+p1239
+VA right to stand
+p1240
+sVtentanda via
+p1241
+VThe way must be tried
+p1242
+sVSi hoc legere potes nimium eruditionis habes
+p1243
+VIf you can read this, you have too much education.
+p1244
+sVargumentum
+p1245
+Vargument
+p1246
+sVex tempore
+p1247
+Vfrom [this moment of] time
+p1248
+sVlux libertas
+p1249
+Vlight, liberty
+p1250
+sVex dolo malo
+p1251
+Vfromfraud
+p1252
+sVense petit placidam sub libertate quietem
+p1253
+Vby the sword she seeks a serene repose under liberty
+p1254
+sVante mortem
+p1255
+Vbefore death
+p1256
+sVvox clamantis in deserto
+p1257
+Vthe voice of one shouting in the desert
+p1258
+sVprobis pateo
+p1259
+VI am open for honest people
+p1260
+sVpro gloria et patria
+p1261
+Vfor glory and fatherland
+p1262
+sVad quod damnum
+p1263
+Vto whatever damage
+p1264
+sVnullam rem natam
+p1265
+Vno thing born
+p1266
+sVpost festum
+p1267
+Vafter the feast
+p1268
+sVpro rege et lege
+p1269
+Vfor king and the law
+p1270
+sVdulce periculum
+p1271
+Vdanger is sweet
+p1272
+sVPari passu
+p1273
+Vwith equal step
+p1274
+sVnon scholae, sed vitae discimus
+p1275
+VWe learn not for school, but for life.
+p1276
+sVvictoria concordia crescit
+p1277
+VVictory comes from harmony
+p1278
+sVexpressio unius est exclusio alterius
+p1279
+Vthe expression of the one is the exclusion of the other
+p1280
+sVin hoc signo vinces
+p1281
+Vby this sign you will conquer
+p1282
+sVaudere est facere
+p1283
+Vto dare is to do
+p1284
+sVad astra
+p1285
+Vto the stars
+p1286
+sVSalvator Mundi
+p1287
+VSavior of the World
+p1288
+sVmirabile dictu
+p1289
+Vwonderful to tell
+p1290
+sVmala fide
+p1291
+Vin bad faith
+p1292
+sVlex in casu
+p1293
+Vlaw in the event
+p1294
+sVcoitus more ferarum
+p1295
+Vcongress in the way of beasts
+p1296
+sVin partibus infidelium
+p1297
+Vin the parts of the infidels
+p1298
+sVPax Deorum
+p1299
+VPeace of the gods
+p1300
+sVstatus quo ante bellum
+p1301
+Vthe state before the war
+p1302
+sVad captandumvulgus
+p1303
+Vin order to capture the crowd
+p1304
+sVmundus senescit
+p1305
+Vthe world grows old
+p1306
+sVin triplo
+p1307
+Vin triple
+p1308
+sVsaltus in demonstrando
+p1309
+Vleap in explaining
+p1310
+sVfelix culpa
+p1311
+Vfortunate fault
+p1312
+sVin somnis veritas
+p1313
+VIn dreams there is truth
+p1314
+sVcirculus in probando
+p1315
+Vcircle made in testing [a premise]
+p1316
+sVpax et justitia
+p1317
+Vpeace and justice
+p1318
+sVin utrumque paratus
+p1319
+VPrepared for either (event)
+p1320
+sVfac simile
+p1321
+Vmake a similar thing
+p1322
+sVcirca(c.)or(ca.)
+p1323
+Varound
+p1324
+sVThe last resort. Short form for the metaphor "The Last Resort of Kings and Common Men" referring to the act of declaring war; used in the names the French sniper riflePGM Ultima Ratioand the fictionalReasonweapon system.Louis XIV of FrancehadUltima Ratio Regum("last argument of kings") cast on thecannonsof his armies; motto of the1st Battalion 11th Marines.
+p1325
+V
+sVoculus sinister(O.S.)
+p1326
+Vleft eye
+p1327
+sVperge sequar
+p1328
+Vadvance, I follow
+p1329
+sVmens sana in corpore sano
+p1330
+Va sound mind in a sound body
+p1331
+sVnil per os, rarelynon per os(n.p.o.)
+p1332
+Vnothing through the mouth
+p1333
+sVquaecumque vera doce me
+p1334
+VTeach me whatsoever is true
+p1335
+sVaetatis suae
+p1336
+Vof one's own age
+p1337
+sVquid nunc
+p1338
+VWhat now?
+p1339
+sVHabent sua fata libelli
+p1340
+VBooks have their destiny [according to the capabilities of the reader]
+p1341
+sVturris fortis mihi Deus
+p1342
+VGod is my strong tower
+p1343
+sVsalvo errore et omissione(s.e.e.o.)
+p1344
+Vsave for error and omission
+p1345
+sVper volar sunata[sic]
+p1346
+Vborn to soar
+p1347
+sVtemet nosce
+p1348
+Vknow thyself
+p1349
+sVaudio hostem
+p1350
+VI hear the enemy
+p1351
+sVsummum bonum
+p1352
+Vthe supreme good
+p1353
+sVin hoc sensuorin sensu hoc(s.h.)
+p1354
+Vin this sense
+p1355
+sVstatim(stat)
+p1356
+V"immediately"
+p1357
+sVa posteriori
+p1358
+Vfrom the latter
+p1359
+sVsub finem
+p1360
+Vtoward the end
+p1361
+sVo homines ad servitutem paratos
+p1362
+Vmen fit to be slaves!
+p1363
+sVspiritus mundi
+p1364
+Vspirit of the world
+p1365
+sVira furor brevis est
+p1366
+VWrath (anger) is but a brief madness
+p1367
+sVa contrario
+p1368
+Vfrom the opposite
+p1369
+sVmemento vivere
+p1370
+Vremember to live
+p1371
+sVtotus tuus
+p1372
+Vtotally yours
+p1373
+sVveni, vidi, vici
+p1374
+VI came, I saw, I conquered
+p1375
+sVtu autem
+p1376
+Vyou indeed
+p1377
+sVfortes fortuna adiuvat
+p1378
+VFortune favours the bold
+p1379
+sVabsente reo(abs. re.)
+p1380
+V[with] the defendant being absent
+p1381
+sVcoitus interruptus
+p1382
+Vinterrupted congress
+p1383
+sVpace tua
+p1384
+Vwith your peace
+p1385
+sVsi tacuisses, philosophus mansisses
+p1386
+VIf you had kept your silence, you would have stayed a philosopher
+p1387
+sVpollice verso
+p1388
+Vwith a turned thumb
+p1389
+sVvice versaversa vice
+p1390
+Vwith position turnedFor other uses, seevice versa
+p1391
+sVvivere est cogitare
+p1392
+VTo live is to think
+p1393
+sVmundus vult decipi
+p1394
+Vthe world wants to be deceived
+p1395
+sVeheu fugaces labuntur anni
+p1396
+VAlas, the fleeting years slip by
+p1397
+sVclarere audere gaudere
+p1398
+V[be] bright, daring, joyful
+p1399
+sVe pluribus unum
+p1400
+Vone (coming) out of many
+p1401
+sVopus anglicanum
+p1402
+VEnglish work
+p1403
+sVut biberent quoniam esse nollent
+p1404
+Vso that they might drink, since they refused to eat
+p1405
+sVsapientia et eloquentia
+p1406
+Vwisdom and eloquence
+p1407
+sVcor ad cor loquitur
+p1408
+Vheart speaks to heart
+p1409
+sVab imo pectore
+p1410
+Vfrom the deepest chest
+p1411
+sVincredibile dictu
+p1412
+Vincredible to say
+p1413
+sVdicto simpliciter
+p1414
+V[From] a maxim, simply
+p1415
+sVsine prole superstite
+p1416
+VWithout surviving issue
+p1417
+sVDeo Confidimus
+p1418
+VIn God we trust
+p1419
+sVper ardua ad astra
+p1420
+Vthrough adversity to the stars
+p1421
+sVsolvitur ambulando
+p1422
+VIt is solved by walking
+p1423
+sVmare nostrum
+p1424
+Vour sea
+p1425
+sVbono malum superate
+p1426
+VOvercome evil with good
+p1427
+sVin extenso
+p1428
+Vin the extended
+p1429
+sVonus procedendi
+p1430
+Vburden of procedure
+p1431
+sVde nobis fabula narratur
+p1432
+Vabout us is the story told
+p1433
+sVnec temere nec timide
+p1434
+Vneither reckless nor timid
+p1435
+sVveritate et virtute
+p1436
+Vwith truth and courage
+p1437
+sVdulce et utile
+p1438
+Va sweet and useful thing
+p1439
+sVcepi corpus
+p1440
+VI got the body
+p1441
+sVper stirpes
+p1442
+Vthrough the roots
+p1443
+sVnunc est bibendum
+p1444
+Vnow is the time to drink
+p1445
+sVsic vita est
+p1446
+Vthus is life
+p1447
+sVfortis est veritas
+p1448
+Vtruth is strong
+p1449
+sVArcanum boni tenoris animae
+p1450
+VThe secret behind a good mood
+p1451
+sVnihil novi
+p1452
+Vnothing of the new
+p1453
+sVMater Dei
+p1454
+VMother of God
+p1455
+sVaqua(aq.)
+p1456
+Vwater
+p1457
+sVhabemus papam
+p1458
+Vwe have a pope
+p1459
+sVin dubio pro reo
+p1460
+Vin doubt, on behalf of the [alleged] culprit
+p1461
+sVChristianos ad leones
+p1462
+V[Throw the] Christians to the lions!
+p1463
+sVnaturalia non sunt turpia
+p1464
+VWhat is natural is not dirty.
+p1465
+sVpost coitum
+p1466
+VAfter sex
+p1467
+sVbona fide
+p1468
+Vingood faith
+p1469
+sVspes vincit thronum
+p1470
+Vhope conquers (overcomes) the throne
+p1471
+sVtimor mortis conturbat me
+p1472
+Vthe fear of death confounds me
+p1473
+sVnemine contradicente(nem. con.)
+p1474
+Vwith no one speaking against
+p1475
+sVparva sub ingenti
+p1476
+Vthe small under the huge
+p1477
+sVvirtus sola nobilitas
+p1478
+Vvirtue alone [is] noble
+p1479
+sVducimus
+p1480
+VWe lead
+p1481
+sVmagna cum laude
+p1482
+Vwith great praise
+p1483
+sVab epistulis
+p1484
+Vfrom the letters
+p1485
+sVsemper fortis
+p1486
+Valways brave
+p1487
+sVprimus inter pares
+p1488
+Vfirst among equals
+p1489
+sVin vivo
+p1490
+Vin life" or "in a living thing
+p1491
+sVnervos belli, pecuniam infinitam
+p1492
+VEndless money forms the sinews of war
+p1493
+sVcontra bonos mores
+p1494
+Vagainst good morals
+p1495
+sVubi sunt
+p1496
+Vwhere are they?
+p1497
+sVquantum libet(q.l.)
+p1498
+Vas much as pleases
+p1499
+sVgaudeamus igitur
+p1500
+Vtherefore let us rejoice
+p1501
+sVexeat
+p1502
+Vmay he/she leave
+p1503
+sVin memoriam
+p1504
+Vinto the memory
+p1505
+sVfortiter et fideliter
+p1506
+Vbravely and faithfully
+p1507
+sVper veritatem vis
+p1508
+Vthrough truth, strength
+p1509
+sVdum vivimus, vivamus
+p1510
+VWhile we live, let us live!
+p1511
+sVius accrescendi
+p1512
+Vright of accrual
+p1513
+sVvivat crescat floreat
+p1514
+Vmay it live, grow, and flourish!
+p1515
+sVvel non
+p1516
+Vor not
+p1517
+sVab extra
+p1518
+Vfrom beyond
+p1519
+sVhabeas corpus
+p1520
+VYou should have the body
+p1521
+sVmanu militari
+p1522
+Vwith a military hand
+p1523
+sVin inceptum finis est
+p1524
+Vlit.: in the beginning is the end
+p1525
+sVnon quis sed quid
+p1526
+Vnot who but what
+p1527
+sVdura lex sed lex
+p1528
+V[the] law [is] harsh, but [it is the] law
+p1529
+sVante meridiem(a.m.)
+p1530
+Vbefore midday
+p1531
+sVsine loco(s.l.)
+p1532
+Vwithout a place
+p1533
+sVab ovousque ad mala
+p1534
+Vfrom the egg to the apples
+p1535
+sVconiunctis viribus
+p1536
+Vwith connected strength
+p1537
+sVRegnum Mariae Patrona Hungariae
+p1538
+VKingdom of Mary, the Patron of Hungary
+p1539
+sVbella gerant aliiProtesilaus amet!
+p1540
+Vlet others wage warProtesilaus should love!
+p1541
+sVcygnus inter anates
+p1542
+Vswan among ducks
+p1543
+sVin medias res
+p1544
+Vinto the middle of things
+p1545
+sVsuo jure
+p1546
+Vin one's own right
+p1547
+sVeditio princeps
+p1548
+Vfirst edition
+p1549
+sVentia non sunt multiplicanda praeter necessitatem
+p1550
+Ventities must not be multiplied beyond necessity
+p1551
+sVfiat justitia ruat caelum
+p1552
+Vlet justice be done should the sky fall
+p1553
+sVut dicitur
+p1554
+Vas has been said; as above
+p1555
+sVoremus pro invicem
+p1556
+VLet us pray, one for the other; let us pray for each other
+p1557
+sVDeo gratias
+p1558
+Vthanks [be] to God
+p1559
+sVsic infit
+p1560
+Vso it begins
+p1561
+sVcausa mortis
+p1562
+Vcause of death
+p1563
+sVin retentis
+p1564
+Vamong things held back
+p1565
+sVde re
+p1566
+Vabout the matter
+p1567
+sVignoratio elenchi
+p1568
+Vignorance of the issue
+p1569
+sVmanus celer Dei
+p1570
+Vthe swift hand of God
+p1571
+sVet nunc reges intelligite erudimini qui judicatis terram
+p1572
+VAnd now, O ye kings, understand: receive instruction, you that judge the earth.
+p1573
+sVpetitio principii
+p1574
+Vrequest of the beginning
+p1575
+sVin illo tempore
+p1576
+Vin that time
+p1577
+sVtu autem Domine miserere nobis
+p1578
+VBut Thou, O Lord, have mercy upon us
+p1579
+sVdurante munere
+p1580
+Vwhile in office
+p1581
+sVpost mortem(pm)
+p1582
+Vafter death
+p1583
+sVante prandium(a.p.)
+p1584
+Vbeforelunch
+p1585
+sVtempus volat hora fugit
+p1586
+Vtime flies, the hour flees
+p1587
+sVmala tempora currunt
+p1588
+Vbad times are upon us
+p1589
+sVRoma invicta
+p1590
+VUnconquerable Rome
+p1591
+sVutilis in ministerium
+p1592
+Vusefulness in service
+p1593
+sVsisto activitatem
+p1594
+VI cease the activity
+p1595
+sVut retro
+p1596
+Vas backwards
+p1597
+sVimitatio dei
+p1598
+Vimitation of a god
+p1599
+sVsanctum sanctorum
+p1600
+VHoly of Holies
+p1601
+sVin utero
+p1602
+Vin the womb
+p1603
+sVfloreat nostra schola
+p1604
+Vmay our school flourish
+p1605
+sVrepetita juvant
+p1606
+Vrepeating does good
+p1607
+sVaqua fortis
+p1608
+Vstrong water
+p1609
+sVvidere licet
+p1610
+V"it is permitted to see", "one may see"
+p1611
+sVDeo Optimo Maximo(DOM)
+p1612
+VTo the Best and Greatest God
+p1613
+sVdocendo disco, scribendo cogito
+p1614
+VI learn by teaching, think by writing.
+p1615
+sVerrare humanum est
+p1616
+Vto err is human
+p1617
+sViter legis
+p1618
+VThe path of the law
+p1619
+sVaetat.
+p1620
+V"of age" / "aged" (in the sense of: "age: ...)
+p1621
+sVinnocens non timidus
+p1622
+Vinnocent but not afraid
+p1623
+sVsemper excelsius
+p1624
+Valways higher
+p1625
+sVpalma non sine pulvere
+p1626
+Vno reward without effort
+p1627
+sVres ipsa loquitur
+p1628
+Vthe thing speaks for itself
+p1629
+sVsapere aude
+p1630
+Vdare to be wise
+p1631
+sVclerico intra sacros ordines constituto non eligendo in officium
+p1632
+V&#160;
+p1633
+sVubi nihil vales, ibi nihil velis
+p1634
+VWhere you are worth nothing, there you will wish for nothing
+p1635
+sVin lumine tuo videbimus lumen
+p1636
+Vin your light we will see the light
+p1637
+sVcondicio sine qua non
+p1638
+Vcondition without which not
+p1639
+sVnec spe, nec metu
+p1640
+Vwithout hope, without fear
+p1641
+sVad honorem
+p1642
+Vto the honour
+p1643
+sVaccusare nemo se debet nisi coram Deo
+p1644
+Vno one ought to accuse himself except in the Presence of God
+p1645
+sVubi solitudinem faciunt pacem appellant
+p1646
+VThey make a desert and call it peace
+p1647
+sVverbatim
+p1648
+Vword for word
+p1649
+sVoratio obliqua
+p1650
+Vindirect speech
+p1651
+sVsic gorgiamus allos subjectatos nunc
+p1652
+Vwe gladly feast on those who would subdue us
+p1653
+sVimprimatur
+p1654
+Vlet it be printed
+p1655
+sVipso facto
+p1656
+Vby the fact itself
+p1657
+sVres gestae
+p1658
+Vthings done
+p1659
+sVlux, veritas, virtus
+p1660
+Vlight, truth, courage
+p1661
+sVhoc est Christum cognoscere, beneficia eius cognoscere
+p1662
+VTo know Christ is to know his benefits
+p1663
+sVboni pastoris est tondere pecus non deglubere
+p1664
+Vit is a good shepherd's [job] to shear his flock, not to flay them
+p1665
+sVvice
+p1666
+Vin place of
+p1667
+sVius cogens
+p1668
+Vcompelling law
+p1669
+sVpost coitum omne animal triste est sive gallus et mulier
+p1670
+VAfter sexual intercourse every animal is sad, except the cock (rooster) and the woman
+p1671
+sVquam bene non quantum
+p1672
+Vhow well, not how much.
+p1673
+sVverbum Domini manet in aeternum(VDMA)
+p1674
+VThe Word of the Lord Endures Forever
+p1675
+sVquaerite primum regnum Dei
+p1676
+Vseek ye first the kingdom of God
+p1677
+sVad maiorem Dei gloriamorad majorem Dei gloriam(AMDG)
+p1678
+Vto the greater glory of God
+p1679
+sVquid infantes sumus
+p1680
+VWhat are we, a bunch of babies?
+p1681
+sVnon plus ultra
+p1682
+Vnothing further beyond
+p1683
+sVcontra spem spero
+p1684
+Vhope against hope
+p1685
+sVcaveat emptor
+p1686
+Vlet the buyer beware
+p1687
+sVfilae nostrae sicvt angvli incisi similitvdine templi
+p1688
+Vmay our daughters be as polished as the corners' of the temple
+p1689
+sVterra australis incognita
+p1690
+Vunknown southern land
+p1691
+sVomnia munda mundis
+p1692
+Veverything [is] pure to the pure [men]
+p1693
+sValter ego
+p1694
+Vanother I
+p1695
+sVinter caetera
+p1696
+Vamong others
+p1697
+sVper aspera ad astra
+p1698
+Vthrough hardships to the stars
+p1699
+sVdulcius ex asperis
+p1700
+Vsweeter after difficulties
+p1701
+sVvide infra (v.i.)
+p1702
+V"see below"
+p1703
+sVsemper invicta
+p1704
+Valways invincible
+p1705
+sVid est(i.e.)
+p1706
+Vthat is
+p1707
+sVverbum sap
+p1708
+VA word to the wise is sufficient
+p1709
+sVnolo contendere
+p1710
+VI do not wish to contend
+p1711
+sVlapsus memoriae
+p1712
+Vslip of memory
+p1713
+sVadaequatio intellectus nostri cum re
+p1714
+Vconformity of our minds to the fact
+p1715
+sVeruditio et religio
+p1716
+Vscholarship and religion
+p1717
+sVin flagrante delicto
+p1718
+Vin a blazing wrong, while the crime is blazing
+p1719
+sVqui doecet in doctrina
+p1720
+V"He that teacheth, on teaching"
+p1721
+sVDeus Caritas Est
+p1722
+VGod is Love
+p1723
+sVlux hominum vita
+p1724
+Vlight the life of man
+p1725
+sVrespice finem
+p1726
+Vlook back at the end
+p1727
+sVeo nomine
+p1728
+Vby that name
+p1729
+sVFidei Defensor(Fid Def)or(fd)
+p1730
+VDefender of the Faith
+p1731
+sVvaticinium ex eventu
+p1732
+Vprophecy from the event
+p1733
+sVa pedibus usque ad caput
+p1734
+Vfrom feet to head
+p1735
+sVvotum separatum
+p1736
+Vseparate vow
+p1737
+sVad valorem
+p1738
+Vaccording to value
+p1739
+sVpro domo
+p1740
+Vfor (one\u2019s own) home or house
+p1741
+sVgratiae veritas naturae
+p1742
+Vtruth through God's mercy and nature
+p1743
+sVquis separabit?
+p1744
+Vwho will separate us?
+p1745
+sVex silentio
+p1746
+Vfrom silence
+p1747
+sVdat deus incrementum
+p1748
+VGod grants the increase
+p1749
+sVsemper vigilans
+p1750
+Valways vigilant
+p1751
+sVextra omnes
+p1752
+Voutside, all [of you]
+p1753
+sVpax Dei
+p1754
+Vpeace of God
+p1755
+sVunitas per servitiam
+p1756
+Vunity through service
+p1757
+sVin vino veritas
+p1758
+Vin wine [there is] truth
+p1759
+sVlux mentis lux orbis
+p1760
+VLight of the mind, light of the world
+p1761
+sVubi dubium ibi libertas
+p1762
+Vwhere [there is] doubt, there [is] freedom
+p1763
+sVinstante mense(inst.)
+p1764
+Vin the present month
+p1765
+sVsesquipedalia verba
+p1766
+Vwords afootand a half long
+p1767
+sVde fideli
+p1768
+Vwith faithfulness
+p1769
+sVprodesse quam conspici
+p1770
+VTo Accomplish Rather Than To Be Conspicuous
+p1771
+sVasinus ad lyram
+p1772
+Van ass to the lyre
+p1773
+sVquis leget haec?
+p1774
+VWho will read this?
+p1775
+sVper capita
+p1776
+Vby heads
+p1777
+sVsi vis pacem, para bellum
+p1778
+Vif you want peace, prepare for war
+p1779
+sVaut concilio aut ense
+p1780
+Veither by meeting or the sword
+p1781
+sVde lege ferenda
+p1782
+Vfrom law to be passed
+p1783
+sVnolens volens
+p1784
+Vunwilling, willing
+p1785
+sVuna hirundo non facit ver
+p1786
+Vone swallow does not make summer
+p1787
+sVvideo sed non credo
+p1788
+VI see it, but I don't believe it
+p1789
+sVQuot capita tot sensus
+p1790
+VAs many heads, so many opinions
+p1791
+sVopera posthuma
+p1792
+Vposthumous works
+p1793
+sVcum gladiis et fustibus
+p1794
+Vwith swords and clubs
+p1795
+sVterra incognita
+p1796
+Vunknown land
+p1797
+sVdulce bellum inexpertis
+p1798
+Vwar is sweet to the inexperienced
+p1799
+sVcum grano salis
+p1800
+Vwith agrain of salt
+p1801
+sVpro rata
+p1802
+Vfor the rate
+p1803
+sVEcce Homo
+p1804
+VBehold the Man
+p1805
+sVqui tacet consentire videtur
+p1806
+Vhe who is silent is taken to agree
+p1807
+sVnon loqui sed facere
+p1808
+Vnot talk but action
+p1809
+sVper mensem(pm.)
+p1810
+Vby month
+p1811
+sVfiat lux
+p1812
+Vlet light be made
+p1813
+sValea iacta est
+p1814
+Vthe die has been cast
+p1815
+sVcui bono
+p1816
+VGood for whom?
+p1817
+sVsola fide
+p1818
+Vby faith alone
+p1819
+sVin specialibus generalia quaerimus
+p1820
+VTo seek the general in the specifics
+p1821
+sVde lege lata
+p1822
+V"from law passed" or "by law in force"
+p1823
+sVsignetur(sig)or(S/)
+p1824
+Vlet it be labeled
+p1825
+sVex malo bonum
+p1826
+Vgood out of evil
+p1827
+sVtu fui ego eris
+p1828
+VI was you; you will be me
+p1829
+sVad libitum(ad lib)
+p1830
+Vtoward pleasure
+p1831
+sVinter spem et metum
+p1832
+Vbetween hope and fear
+p1833
+sVCaritas Christi
+p1834
+VThe love of Christ
+p1835
+sVcum gladio et sale
+p1836
+Vwith sword and salt
+p1837
+sVlorem ipsum
+p1838
+Vsorrow itself; pain for its own sake
+p1839
+sVora pro nobis
+p1840
+Vpray for us
+p1841
+sVvia
+p1842
+Vby the road
+p1843
+sVactus non facit reum nisi mens sit rea
+p1844
+VThe act does not make [a person] guilty unless the mind should be guilty.
+p1845
+sVgloriosus et liber
+p1846
+Vglorious and free
+p1847
+sVdictum meum pactum
+p1848
+Vmy word [is] my bond
+p1849
+sVDeo volente
+p1850
+VGod willing
+p1851
+sVsi vales valeo(SVV)
+p1852
+Vif you are well, I am well
+p1853
+sVnoli turbare circulos meos
+p1854
+VDo not disturb my circles!
+p1855
+sVclamea admittenda in itinere per atturnatum
+p1856
+V&#160;
+p1857
+sVindivisibiliter ac inseparabiliter
+p1858
+Vindivisible and inseparable
+p1859
+sVcuius est solum eius est usque ad coelum et ad inferos
+p1860
+VWhose the land is, all the way to the sky and to theunderworldis his.
+p1861
+sVsedet, aeternumque sedebit
+p1862
+Vseat, be seated forever
+p1863
+sVtempora heroica
+p1864
+VHeroic Age
+p1865
+sVex hypothesi
+p1866
+Vfrom the hypothesis
+p1867
+sVmetri causa
+p1868
+Vfor the sake of themeter
+p1869
+sVreductio ad infinitum
+p1870
+Vleading back to the infinite
+p1871
+sVbeati possidentes
+p1872
+Vblessed [are] those who possess
+p1873
+sVin casu(i.c.)
+p1874
+Vin the event
+p1875
+sVde minimisnon curat praetor
+p1876
+VThe commander does not bother with the smallest things.
+p1877
+sVad vitam aut culpam
+p1878
+Vfor life or until fault
+p1879
+sVAve Maria
+p1880
+VHail, Mary
+p1881
+sVobit anus, abit onus
+p1882
+VThe old woman dies, the burden is lifted
+p1883
+sVerratum
+p1884
+Verror
+p1885
+sVdramatis personæ
+p1886
+Vthe parts of the play
+p1887
+sVsemper anticus
+p1888
+Valways forward
+p1889
+sVex situ
+p1890
+Vopposite of "in situ"
+p1891
+sVpons asinorum
+p1892
+Vbridge of asses
+p1893
+sVhodie mihi, cras tibi
+p1894
+VToday it's me, tomorrow it will be you
+p1895
+sVnomen est omen
+p1896
+Vthe name is a sign
+p1897
+sVveritas et fortitudo
+p1898
+VTruth and Courage
+p1899
+sVminatur innocentibus qui parcit nocentibus
+p1900
+Vhe threatens the innocent who spares the guilty
+p1901
+sVplus minusve(p.m.v.)
+p1902
+Vmore or less
+p1903
+sVsine qua non
+p1904
+Vwithout which not
+p1905
+sVbeatae memoriae
+p1906
+Vof blessed memory
+p1907
+sVomnibus idem
+p1908
+Vthe same to all
+p1909
+sVinteger vitae scelerisque purus
+p1910
+Vunimpaired by life and clean of wickedness
+p1911
+sVexempli gratia(e.g.)
+p1912
+Vfor the sake of example
+p1913
+sVbis dat qui cito dat
+p1914
+Vhe gives twice, who gives promptly
+p1915
+sVaut vincere aut mori
+p1916
+Veither to conquer or to die
+p1917
+sVcrescit cum commercio civitas
+p1918
+VCivilization prospers with commerce
+p1919
+sValumnusoralumna
+p1920
+Vpupil
+p1921
+sVomnia extares!
+p1922
+VLet it all hang out!
+p1923
+sVmobilis in mobili
+p1924
+V"moving in a moving thing" or, poetically, "changing through the changing medium"
+p1925
+sVfumus boni iuris
+p1926
+Vpresumption of sufficient legal basis
+p1927
+sVex gratia
+p1928
+Vfrom kindness
+p1929
+sVsine metu
+p1930
+V"without fear"
+p1931
+sVin articulo mortis
+p1932
+Vat the point of death
+p1933
+sVmorior invictus
+p1934
+Vdeath before defeat
+p1935
+sVMelita, domi adsum
+p1936
+VHoney, I'm home!
+p1937
+sVFui quod es, eris quod sum
+p1938
+VI once was what you are, you will be what I am
+p1939
+sVnon bis in idem
+p1940
+Vnot twice in the same thing
+p1941
+sVego te provoco
+p1942
+VI provoke you
+p1943
+sVdis manibus sacrum(D.M.S.)
+p1944
+VSacred to the ghost-gods
+p1945
+sVinvictus maneo
+p1946
+VI remain unvanquished
+p1947
+sVsi omnia ficta
+p1948
+Vif all (the words of poets) is fiction
+p1949
+sVextra domum
+p1950
+V[placed] outside of the house
+p1951
+sVsola scriptura
+p1952
+Vby scripture alone
+p1953
+sVnasciturus pro iam nato habetur, quotiens de commodis eius agitur
+p1954
+VThe unborn is deemed to have been born to the extent that his own inheritance is concerned
+p1955
+sVaurea mediocritas
+p1956
+Vgolden mean
+p1957
+sVcura personalis
+p1958
+Vcare for the whole person
+p1959
+sVperpetuum mobile
+p1960
+Vthing inperpetual motion
+p1961
+sVabusus non tollit usum
+p1962
+Vmisuse does not remove use
+p1963
+sVIdus Martiae
+p1964
+VtheIdes of March
+p1965
+sVOpus Dei
+p1966
+VThe Work of God
+p1967
+sVad astra per aspera
+p1968
+Vto the stars through difficulty
+p1969
+sVvictoria aut mors
+p1970
+VVictory or death!
+p1971
+sVrebus sic stantibus
+p1972
+Vwith matters standing thus
+p1973
+sVnon liquet
+p1974
+Vit is not proven
+p1975
+sVfeci quod potui, faciant meliora potentes
+p1976
+VI have done what I could; let those who can do better.
+p1977
+sVex infra(e.i.) cf.ex supra
+p1978
+V"from below"
+p1979
+sVpro multis
+p1980
+Vfor many
+p1981
+sVclerico admittendo
+p1982
+Vfor being made a clerk
+p1983
+sVveritas diaboli manet in aeternum
+p1984
+VDevil's truth remain eternally
+p1985
+sVpulvis et umbra sumus
+p1986
+Vwe are dust and shadow
+p1987
+sVquomodo vales
+p1988
+Vhow are you?
+p1989
+sVnunc dimittis
+p1990
+Vnow you send
+p1991
+sVvelocius quam asparagi coquantur
+p1992
+Vmore rapidly thanasparaguswill be cooked
+p1993
+sVa fortiori
+p1994
+Vfrom the stronger
+p1995
+sVPax Romana
+p1996
+VRoman Peace
+p1997
+sVex novo
+p1998
+Vfrom new
+p1999
+sVpax vobiscum
+p2000
+Vpeace [be] with you
+p2001
+sVoderint dum metuant
+p2002
+Vlet them hate, so long as they fear
+p2003
+sVnosus decipio
+p2004
+Vwe cheat
+p2005
+sVvade retro Satana
+p2006
+VGo back,Satan!
+p2007
+sVquo fata ferunt
+p2008
+Vwhere the fates bear us to
+p2009
+sVsensu strictocf. stricto sensu
+p2010
+V"with the tight meaning"
+p2011
+sVnemo malus felix
+p2012
+Vpeace visits not the guilty mind
+p2013
+sVcausa latet, vis est notissima
+p2014
+VThe cause is hidden, but the result is well known.
+p2015
+sVper se
+p2016
+Vthrough itself
+p2017
+sVposse comitatus
+p2018
+Vto have the right to an armed retinue
+p2019
+sVscientiae cedit mare
+p2020
+VThe sea yields to knowledge
+p2021
+sVcedant arma togae
+p2022
+Vlet arms yield to the gown
+p2023
+sVad oculos
+p2024
+Vto the eyes
+p2025
+sVquid pro quo
+p2026
+Vwhat for what
+p2027
+sVaegri somnia
+p2028
+Va sick man's dreams
+p2029
+sVnon obstante veredicto
+p2030
+Vnot standing in the way of averdict
+p2031
+sVpauca sed bona
+p2032
+Vfew, but good
+p2033
+sVsequere pecuniam
+p2034
+Vfollow the money
+p2035
+sVscientia ac labore
+p2036
+Vknowledge through [hard] work, or: by means of knowledge and hard work, or: through knowledge and [hard] work
+p2037
+sVIndex Librorum Prohibitorum
+p2038
+VIndex of Prohibited (or, Forbidden) Books
+p2039
+sVsuperbia in proelia
+p2040
+Vpride in battle
+p2041
+sVad pedem litterae
+p2042
+Vto the foot of the letter
+p2043
+sVultra vires
+p2044
+Vbeyond powers
+p2045
+sVRomanes eunt domus
+p2046
+VRomanes go the house
+p2047
+sVira deorum
+p2048
+Vwrath of the gods
+p2049
+sVpost aut propter
+p2050
+Vafter it or by means of it
+p2051
+sVlegitime
+p2052
+Vlawfully
+p2053
+sVauribus teneo lupum
+p2054
+VI hold a wolf by the ears
+p2055
+sVHannibal ante portas
+p2056
+VHannibalbefore the gates
+p2057
+sVTe occidere possunt sed te edere non possunt nefas est
+p2058
+VThey can kill you, but they cannot eat you, it is against the law.
+p2059
+sVvade mecum
+p2060
+Vgo with me
+p2061
+sVadversus solem ne loquitor
+p2062
+Vdon't speak against the sun
+p2063
+sVmens agitat molem
+p2064
+Vthe mind moves the mass
+p2065
+sVhinc robur et securitas
+p2066
+Vherefore strength and safety
+p2067
+sViure matris
+p2068
+Vin right of his mother
+p2069
+sVCogitationis poena nemo patitur
+p2070
+V"No one suffers punishment for mere intent."
+p2071
+sVcertum est quod certum reddi potest
+p2072
+Vit is certain, whatever can be rendered certain
+p2073
+sVaqua vitae
+p2074
+Vwater of life
+p2075
+sVfiat panis
+p2076
+Vlet there be bread
+p2077
+sVex aequo
+p2078
+Vfrom the equal
+p2079
+sVquis ut Deus
+p2080
+VWho [is] as God?
+p2081
+sVCaelum non animum mutant qui trans mare currunt
+p2082
+VThose who hurry cross the sea change the sky [upon them], not their souls or state of mind
+p2083
+sVdis aliter visum
+p2084
+Vit seemed otherwise to the gods
+p2085
+sVLibertas Securitas Justitia
+p2086
+VLiberty Security Justice
+p2087
+sVAgnus Dei
+p2088
+VLamb of God
+p2089
+sVPax Americana
+p2090
+VAmerican Peace
+p2091
+sVmontaini semper liberi
+p2092
+Vmountaineers [are] always free
+p2093
+sVaurora borealis
+p2094
+Vnorthern lights
+p2095
+sVrus in urbe
+p2096
+VA countryside in the city
+p2097
+sVtabula rasa
+p2098
+Vscraped tablet
+p2099
+sVceteris paribus
+p2100
+Vall other things being equal
+p2101
+sVde oppresso liber
+p2102
+VFree From Having Been Oppressed
+p2103
+sVveritas et virtus
+p2104
+VTruth and virtue
+p2105
+sVin silico(Dog Latin)
+p2106
+Vinsilicon
+p2107
+sVhaud ignota loquor
+p2108
+VI speak not of unknown things
+p2109
+sVnoli me tangere
+p2110
+Vdo not touch me
+p2111
+sVsemper paratus
+p2112
+Valways prepared
+p2113
+sVclerico capto per statutum mercatorum
+p2114
+V&#160;
+p2115
+sViustitia fundamentum regni
+p2116
+Vjustice - fundamental of kingdom
+p2117
+sVdum vita est, spes est
+p2118
+Vwhile there is life, there is hope
+p2119
+sVcave
+p2120
+Vbeware!
+p2121
+sVprimum movens
+p2122
+Vprime mover
+p2123
+sVpater familias
+p2124
+Vfather of the family
+p2125
+sVpericulum in mora
+p2126
+Vdanger in delay
+p2127
+sVvia media
+p2128
+Vmiddle road
+p2129
+sVper curiam
+p2130
+Vthrough the senate
+p2131
+sVverba volant, scripta manent
+p2132
+Vwords fly away, writings remain
+p2133
+sVcor aut mors
+p2134
+VHeart or Death
+p2135
+sVut desint vires, tamen est laudanda voluntas
+p2136
+Vthough the power be lacking, the will is to be praised all the same
+p2137
+sViuris ignorantia est cum ius nostrum ignoramus
+p2138
+Vit is ignorance of the law when we do not know our own rights
+p2139
+sVquorum
+p2140
+Vof whom
+p2141
+sVvirtus et scientia
+p2142
+Vvirtue and knowledge
+p2143
+sVLaboremus pro patria
+p2144
+VLet us work for the fatherland
+p2145
+sVex scientia vera
+p2146
+Vfrom knowledge, truth
+p2147
+sVet sequentes(et seq.)
+p2148
+Vand the following (masc./fem. plural)
+p2149
+sVpro forma
+p2150
+Vfor form
+p2151
+sVQuodcumque dixerit vobis, facite
+p2152
+VWhatever He tells you, that you shall do.
+p2153
+sVhic jacet(HJ)
+p2154
+Vhere lies
+p2155
+sVnon vestra sed vos
+p2156
+VNot yours but you
+p2157
+sVpro patria
+p2158
+Vfor country
+p2159
+sVex ante
+p2160
+Vfrom before
+p2161
+sVlex orandi, lex credendi
+p2162
+Vthe law of prayer is the law of faith
+p2163
+sVvade ad formicam
+p2164
+Vgo to the ant
+p2165
+sVsimilia similibus curantursimilia similibus curentur
+p2166
+Vsimilar things take care of similar things"let similar things take care of similar things
+p2167
+sVincertae sedis
+p2168
+Vof uncertain position (seat)
+p2169
+sVin principio erat Verbum
+p2170
+Vin the beginning was the Word (Logos)
+p2171
+sVex voto
+p2172
+Vfrom the vow
+p2173
+sVsurgam
+p2174
+VI shall rise
+p2175
+sVvero possumus
+p2176
+VYes, we can
+p2177
+sVhonestes ante honores
+p2178
+Vhonesty before glory
+p2179
+sVubi pus, ibi evacua
+p2180
+Vwhere there is pus, there evacuate it
+p2181
+sVdum vivimus servimus
+p2182
+VWhile we live, we serve
+p2183
+sVqui tam pro domino rege quam pro se ipso in hac parte sequitur
+p2184
+Vhe who brings an action for the king as well as for himself
+p2185
+sVfortis cadere, cedere non potest
+p2186
+VThe brave may fall, but cannot yield
+p2187
+sVmodus vivendi
+p2188
+Vmethod of living
+p2189
+sVsignum fidei
+p2190
+VSign of the Faith
+p2191
+sVpacta sunt servanda
+p2192
+Vagreements must be kept
+p2193
+sVflectere si nequeo superos, Achaeronta movebo
+p2194
+Vif I cannot move heaven I will raise hell
+p2195
+sVmater facit
+p2196
+VMother Does It
+p2197
+sVpluralis majestatis
+p2198
+Vplural of majesty
+p2199
+sVarte et labore
+p2200
+Vby art and by labour
+p2201
+sVopere et viritate
+p2202
+Vin action and truth
+p2203
+sVsimplex sigillum veri
+p2204
+Vsimplicity is the sign of truth
+p2205
+sVad eundem
+p2206
+Vto the same
+p2207
+sVquod natura non dat Salmantica non praestat
+p2208
+Vwhat nature does not give,Salamancadoes not provide
+p2209
+sVLibertas Justitia Veritas
+p2210
+VLiberty Justice Truth
+p2211
+sVArtis Bohemiae Amicis
+p2212
+VFriends of Czech Arts
+p2213
+sVigni ferroque
+p2214
+Vwith fire and iron
+p2215
+sVcelerius quam asparagi cocuntur
+p2216
+Vmore swiftly thanasparagus[stem]s are cooked
+p2217
+sVipsissima verba
+p2218
+Vthe very words themselves
+p2219
+sVnunc aut nunquam
+p2220
+Vnow or never
+p2221
+sVquis custodiet ipsos custodes?
+p2222
+VWho will guard the guards themselves?
+p2223
+sVin pectore
+p2224
+Vin the heart
+p2225
+sVhoc age
+p2226
+Vdo this
+p2227
+sVsemper vigilo
+p2228
+Valways vigilant
+p2229
+sVlux et veritas
+p2230
+Vlight and truth
+p2231
+sVlux ex tenebris
+p2232
+Vlight from darkness
+p2233
+sVscuto amoris divini
+p2234
+Vby the shield of God's love
+p2235
+sVquid agis
+p2236
+VWhat's going on?
+p2237
+sVveritate duce progredi
+p2238
+VAdvancing (with) Truth Leading.
+p2239
+sVlupus non mordet lupum
+p2240
+Va wolf does not bite a wolf
+p2241
+sVin loco
+p2242
+Vin the place, on the spot
+p2243
+sVscribimus indocti doctique poemata passim
+p2244
+VEach desperate blockhead dares to write
+p2245
+sVubi re vera
+p2246
+Vwhen, in a true thing
+p2247
+sVPax tibi, Marce, evangelista meus. Hic requiescet corpus tuum.
+p2248
+VPeace to you, Mark, my Evangelist. Here will rest your body.
+p2249
+sVnatura abhorret a vacuo
+p2250
+Vnature abhors a vacuum
+p2251
+sVsuper fornicam
+p2252
+Von the lavatory
+p2253
+sVfluctuat nec mergitur
+p2254
+Vshe wavers and is not immersed
+p2255
+sVannus terribilis
+p2256
+Vdreadful year
+p2257
+sVmunit haec et altera vincit
+p2258
+Vthis one defends and the other one conquers
+p2259
+sVLabore et honore
+p2260
+VBy labour and honour
+p2261
+sVex vivo
+p2262
+Vout of or from life
+p2263
+sVquidquid Latine dictum sit altum videtur
+p2264
+Vwhatever has been said in Latin seems deep
+p2265
+sVubi jus ibi remedium
+p2266
+VWhere [there is] a right, there [is] a remedy
+p2267
+sVobiit(ob.)
+p2268
+Vone died
+p2269
+sVnomen dubium
+p2270
+Vdoubtful name
+p2271
+sVverbi divini minister
+p2272
+Vservant of the divine Word
+p2273
+sVterra firma
+p2274
+Vsolid land
+p2275
+sVubi amor, ibi dolor
+p2276
+Vwhere [there is] love, there [is] pain
+p2277
+sVin rem
+p2278
+Vto the thing
+p2279
+sVMediolanum captum est
+p2280
+VMilan has been captured
+p2281
+sVvide
+p2282
+V"see" or "refer to"
+p2283
+sVin nuce
+p2284
+Vin a nut
+p2285
+sVaqua regia
+p2286
+Vroyal water
+p2287
+sVlege artis
+p2288
+Vaccording to the law of the art
+p2289
+sVopere citato(op. cit.)
+p2290
+Vin the work that was cited
+p2291
+sVcoram nobis,coram vobis
+p2292
+Vin our presence, in your presence
+p2293
+sVcygnis insignis
+p2294
+Vdistinguished by its swans
+p2295
+sVmaiora premunt
+p2296
+Vgreater things are pressing
+p2297
+sVfundamenta inconcussa
+p2298
+Vunshakable foundation
+p2299
+sVpia mater
+p2300
+Vpious mother
+p2301
+sVdura mater
+p2302
+Vtough mother
+p2303
+sVhora somni(h.s.)
+p2304
+Vat the hour of sleep
+p2305
+sVme vexat pede
+p2306
+Vit annoys me at the foot
+p2307
+sVdictatum erat(dict)
+p2308
+Vas previously stated
+p2309
+sVtaliter qualiter
+p2310
+Vsomewhat
+p2311
+sVamor omnibus idem
+p2312
+Vlove is the same for all
+p2313
+sVpretiumque et causa laboris
+p2314
+VThe prize and the cause of our labour
+p2315
+sVsub judice
+p2316
+Vunder a judge
+p2317
+sVpace
+p2318
+Vin peace
+p2319
+sVmutatis mutandis
+p2320
+Vafter changing what needed to be changed
+p2321
+sVpro studio et labore
+p2322
+Vfor study and work
+p2323
+sVophidia in herba
+p2324
+Va snake in the grass
+p2325
+sVomnium gatherum
+p2326
+Vgathering of all
+p2327
+sVarare litus
+p2328
+Vto plough the seashore
+p2329
+sVquos amor verus tenuit tenebit
+p2330
+VThose whom true love has held, it will go on holding
+p2331
+sVscientia imperii decus et tutamen
+p2332
+Vknowledge is the adornment and protection of the Empire
+p2333
+sVpecunia, si uti scis, ancilla est; si nescis, domina
+p2334
+Vif you know how to use money, money is your slave; if you don't, money is your master
+p2335
+sVVeritas. Virtus. Libertas.
+p2336
+VTruth. Courage. Freedom.
+p2337
+sVsine die
+p2338
+Vwithout a day
+p2339
+sVvita patris
+p2340
+VDuring the life of the father
+p2341
+sVstatus quo
+p2342
+Vthe situation in which
+p2343
+sVsutor, ne ultra crepidam
+p2344
+VCobbler, no further than the sandal!
+p2345
+sVamittere legem terrae
+p2346
+Vto lose the law of the land
+p2347
+sVmens rea
+p2348
+Vguilty mind
+p2349
+sVvincit qui patitur
+p2350
+Vhe conquers who endures
+p2351
+sVcoram populo
+p2352
+Vin the presence of the people
+p2353
+sVex abundanti cautela
+p2354
+Vfrom excessive caution
+p2355
+sVtechnica impendi nationi
+p2356
+VTechnology impulses nations
+p2357
+sVrerum cognoscere causas
+p2358
+Vto learn the causes of things
+p2359
+sVMulier est hominis confusio.
+p2360
+VWoman is man's ruin.
+p2361
+sVprincipiis obsta (et respice finem)
+p2362
+Vresist the beginnings (and consider the end)
+p2363
+sVin effigie
+p2364
+Vin the likeness
+p2365
+sVnil desperandum
+p2366
+Vnothing must be despaired at
+p2367
+sVin posse
+p2368
+Vin potential
+p2369
+sVpauca sed matura
+p2370
+Vfew, but ripe
+p2371
+sVopera omnia
+p2372
+Vall works
+p2373
+sVvi veri universum vivus vici
+p2374
+Vby the power of truth, I, while living, have conquered the universe
+p2375
+sVorbis unum
+p2376
+Vone world
+p2377
+sVhic manebimus optime
+p2378
+Vhere we'll stay excellently
+p2379
+sVcogito ergo sum
+p2380
+VI think, therefore I am.
+p2381
+sVsub cruce lumen
+p2382
+VThe Light Under the Cross
+p2383
+sVsede vacante
+p2384
+Vwith the seat being vacant
+p2385
+sVnisi prius
+p2386
+Vunless previously
+p2387
+sVab incunabulis
+p2388
+Vfrom the cradle
+p2389
+sVhoc est bellum
+p2390
+VThis is war
+p2391
+sVsemper liber
+p2392
+Valways free
+p2393
+sVarcus senilis
+p2394
+Vbow of an old person
+p2395
+sVLaudator temporis acti
+p2396
+Vpraiser of time past
+p2397
+sVhomo unius libri (timeo)
+p2398
+V(I fear) a man of one book
+p2399
+sVtarde venientibus ossa
+p2400
+VTo the late are left the bones
+p2401
+sVamor fati
+p2402
+Vlove of fate
+p2403
+sVPraga mater urbium
+p2404
+VPrague, Mother of Cities
+p2405
+sVite missa est
+p2406
+VGo, it is the dismissal
+p2407
+sVab abusu ad usum non valet consequentia
+p2408
+Van inference from an abuse to a use is not valid
+p2409
+sVad fundum
+p2410
+Vto the bottom
+p2411
+sVratio decidendi
+p2412
+Vreasoning for the decision
+p2413
+sVacta sanctorum
+p2414
+VDeeds of theSaints
+p2415
+sVnunc pro tunc
+p2416
+Vnow for then
+p2417
+sVex Deo
+p2418
+Vfrom God
+p2419
+sVin duplo
+p2420
+Vin double
+p2421
+sVin varietate concordia
+p2422
+Vunited in diversity
+p2423
+sVde mortuis aut bene aut nihil
+p2424
+Vabout the dead, either well or nothing
+p2425
+sVmorte magis metuenda senectus
+p2426
+Vold age should rather be feared than death
+p2427
+sVcuiusvis hominis est errare, nullius nisi insipientis in errore perseverare.
+p2428
+VAnyone can err, but only the fool persists in his fault
+p2429
+sVpax aeterna
+p2430
+Veternal peace
+p2431
+sVvirtus in media stat
+p2432
+VVirtue stands in the middle.
+p2433
+sVabyssus abyssum invocat
+p2434
+Vdeep calleth unto deep
+p2435
+sVsemel in anno licet insanire
+p2436
+Vonce in a year one is allowed to go crazy
+p2437
+sVrepetitio est mater studiorum
+p2438
+Vrepetition is the mother of study
+p2439
+sVabsit omen
+p2440
+Vlet anomenbe absent
+p2441
+sVviriliter agite estote fortes
+p2442
+V"Quit ye like men, be strong"
+p2443
+sVclaves Sancti Petri
+p2444
+Vthe keys ofSaint Peter
+p2445
+sVseculo seculorum
+p2446
+Vforever and ever
+p2447
+sVsua sponte
+p2448
+Vby its own accord
+p2449
+sVego non
+p2450
+Vnot I
+p2451
+sVMacte animo! Generose puer sic itur ad astra
+p2452
+VYoung, cheer up! This is the way to the skies.
+p2453
+sVdescensus in cuniculi cavum
+p2454
+VThe descent into the cave of the rabbit
+p2455
+sValiquid stat pro aliquo
+p2456
+Vsomething stands for something else
+p2457
+sVprior tempore potior iure
+p2458
+Vearlier in time, stronger in law
+p2459
+sVin actu
+p2460
+Vin act
+p2461
+sVultimo mense(ult.)
+p2462
+Vin the last month
+p2463
+sVbeati pauperes spiritu
+p2464
+VBlessed in spirit [are] the poor.
+p2465
+sVper
+p2466
+VBy, through, by means of
+p2467
+sVens causa sui
+p2468
+Vexisting because of oneself
+p2469
+sVmulgere hircum
+p2470
+Vto milk a male goat
+p2471
+sVmemento mori
+p2472
+Vremember that [you will] die
+p2473
+sVdivide et impera
+p2474
+Vdivide and rule
+p2475
+sVQuieta non movere
+p2476
+Vdon't move settled things
+p2477
+sVaqua pura
+p2478
+Vpure water
+p2479
+sVluctor et emergo
+p2480
+VI struggle and emerge
+p2481
+sVvivere militare est
+p2482
+VTo live is to fight
+p2483
+sVstet
+p2484
+Vlet it stand
+p2485
+sVNon nobis Domine
+p2486
+V'Not to us (oh) Lord'
+p2487
+sVmea culpa
+p2488
+Vmy fault
+p2489
+sVpraeter legem
+p2490
+Vafter the law
+p2491
+sVgaudete in domino
+p2492
+Vrejoice in the lord
+p2493
+sVpax et bonum
+p2494
+Vpeace and the good
+p2495
+sVquid novi ex Africa
+p2496
+VWhat of the new out of Africa?
+p2497
+sVfortis et liber
+p2498
+Vstrong and free
+p2499
+sVextra Ecclesiam nulla salus
+p2500
+Voutside the Church [there is] no salvation
+p2501
+sVtabula gratulatoria
+p2502
+Vcongratulatory tablet
+p2503
+sVfaber est suae quisque fortunae
+p2504
+Vevery man is the artisan of his own fortune
+p2505
+sVius in bello
+p2506
+Vlaw in war
+p2507
+sVsola nobilitat virtus
+p2508
+VVirtue alone ennobles
+p2509
+sVcollige virgo rosas
+p2510
+Vpick, girl, the roses
+p2511
+sVomnia vincit amor
+p2512
+Vlove conquers all
+p2513
+sVnihil ad rem
+p2514
+Vnothing to do with the point
+p2515
+sVintaminatis fulget honoribus
+p2516
+VUntarnished, she shines with honor
+p2517
+sVcarpe noctem
+p2518
+Vseize the night
+p2519
+sVEtiamsi omnes, ego non
+p2520
+VEven if all others... I will not
+p2521
+sVlucem sequimur
+p2522
+VWe follow the light
+p2523
+sVmultum in parvo
+p2524
+Vmuch in little
+p2525
+sVUrbi et Orbi
+p2526
+Vto the city and the circle [of the lands]
+p2527
+sValma mater
+p2528
+Vnourishing mother
+p2529
+sVsub verbo;sub voce
+p2530
+V
+sVorta recens quam pura nites
+p2531
+Vnewly risen, how brightly you shine
+p2532
+sVnon sic dormit, sed vigilat
+p2533
+VSleeps not but is awake
+p2534
+sVnemo me impune lacessit
+p2535
+Vno one provokes me with impunity
+p2536
+sVde bene esse
+p2537
+Vas well done
+p2538
+sVululas Athenas
+p2539
+V(to send) owls to Athens
+p2540
+sVex scientia tridens
+p2541
+Vfrom knowledge, sea power.
+p2542
+sVin fidem
+p2543
+Vinto faith
+p2544
+sVmens et manus
+p2545
+Vmind and hand
+p2546
+sVstante pede
+p2547
+Vwith a standing foot
+p2548
+sVin regione caecorum rex est luscus
+p2549
+VIn the land of the blind, the one-eyed man is king.
+p2550
+sVita vero
+p2551
+Vthus indeed
+p2552
+sVex nihilonihil fit
+p2553
+Vnothing comes from nothing
+p2554
+sVimperium in imperio
+p2555
+Van order within an order
+p2556
+sVCodex Iuris Canonici
+p2557
+VBook ofCanon Law
+p2558
+sVrequiescat in pace(R.I.P.)
+p2559
+Vlet him rest in peace
+p2560
+sVHannibal ad portas
+p2561
+VHannibalis at the gates
+p2562
+sViuncta iuvant
+p2563
+Vtogether they strive
+p2564
+sVductus exemplo
+p2565
+Vleadership by example
+p2566
+sVvidelicet(viz.)
+p2567
+V"namely", "that is to say", "as follows"
+p2568
+sVab origine
+p2569
+Vfrom the source
+p2570
+sVres judicata
+p2571
+Vjudged thing
+p2572
+sVad rem
+p2573
+Vto the matter
+p2574
+sVmeminerunt omnia amantes
+p2575
+Vlovers remember all
+p2576
+sVmagno cum gaudio
+p2577
+Vwith great joy
+p2578
+sVa priori
+p2579
+Vfrom the former
+p2580
+sVvive memor leti
+p2581
+Vlive remembering death
+p2582
+sVpro Ecclesia, pro Texana
+p2583
+VFor Church, For Texas
+p2584
+sVubi mel ibi apes
+p2585
+Vwhere [there is] honey, there [are] bees
+p2586
+sVsemper reformanda
+p2587
+Valways in need of being reformed
+p2588
+sVnunquam minus solus quam cum solus
+p2589
+Vnever less alone than when alone.
+p2590
+sVabsens haeres non erit
+p2591
+Van absent person will not be an heir
+p2592
+sVversus(vs)or(v.)
+p2593
+Vtowards
+p2594
+sVrem acu tetigisti
+p2595
+VYou have touched the point with a needle
+p2596
+sVeo ipso
+p2597
+Vby that very (act)
+p2598
+sVpendent opera interrupta
+p2599
+Vthe work hangs interrupted
+p2600
+sVstrenuis ardus cedunt
+p2601
+Vthe heights yield to endeavour
+p2602
+sVsic itur ad astra
+p2603
+Vthus you shall go to the stars
+p2604
+sVPater Patriae
+p2605
+Vfather of the nation
+p2606
+sVin illo ordine(i.o.)
+p2607
+Vin that order
+p2608
+sVobtorto collo
+p2609
+Vwith a twisted neck
+p2610
+sVSub umbra floreo
+p2611
+VUnder the shade I flourish
+p2612
+sVsola gratia
+p2613
+Vby grace alone
+p2614
+sVPater Omnipotens
+p2615
+VFatherAlmighty
+p2616
+sVsub tuum praesidium
+p2617
+VBeneath thy compassion
+p2618
+sVpost hoc ergo propter hoc
+p2619
+Vafter this, therefore because of this
+p2620
+sVbona officia
+p2621
+Vgood services
+p2622
+sVfloruit(fl.)
+p2623
+Vone flourished
+p2624
+sVper diem(pd.)
+p2625
+Vby day
+p2626
+sVnon progredi est regredi
+p2627
+Vto not go forward is to go backward
+p2628
+sVpax maternum, ergo pax familiarum
+p2629
+Vpeace of mothers, therefore peace of families
+p2630
+sVlex scripta
+p2631
+Vwritten law
+p2632
+sVcorpus vile
+p2633
+Vworthless body
+p2634
+sVverba ita sunt intelligenda ut res magis valeat quam pereat
+p2635
+Vwords are to be understood such that the subject matter may be more effective than wasted
+p2636
+sVsancte et sapienter
+p2637
+Vwith holiness and with wisdom
+p2638
+sVibidem(ibid.)
+p2639
+Vin the same place
+p2640
+sVave atque vale
+p2641
+VHail and farewell!
+p2642
+sVex professo
+p2643
+Vfrom one declaring [an art or science]
+p2644
+sVin scientia opportunitas
+p2645
+VIn Knowledge, there is Opportunity
+p2646
+sVex luna scientia
+p2647
+Vfrom the moon, knowledge
+p2648
+sVpassim
+p2649
+Vhere and there, everywhere
+p2650
+sVmiserere nobis
+p2651
+Vhave mercy upon us
+p2652
+sVaudi alteram partem
+p2653
+Vhear the other side
+p2654
+sVflagellum dei
+p2655
+Vscourge of god
+p2656
+sVinvicta
+p2657
+VUnconquered
+p2658
+sVPax Britannica
+p2659
+VBritish Peace
+p2660
+sVodium theologicum
+p2661
+Vtheological hatred
+p2662
+sVde profundis
+p2663
+Vfrom the depths
+p2664
+sVabsit invidia
+p2665
+Vlet ill will be absent
+p2666
+sVveritas lux mea
+p2667
+VTruth is my light.
+p2668
+sVsoli Deo gloria(S.D.G.)
+p2669
+Vglory to God alone
+p2670
+sVvero nihil verius
+p2671
+Vnothing truer than truth
+p2672
+sVex cathedra
+p2673
+Vfrom the chair
+p2674
+sVet in Arcadia ego
+p2675
+Vand inArcadia[am] I
+p2676
+sVaudacter calumniare, semper aliquid haeret
+p2677
+Vslander boldly, something always sticks
+p2678
+sVsine prole
+p2679
+VWithout offspring
+p2680
+sVproximo mense(prox.)
+p2681
+Vin the following month
+p2682
+sVnil volentibus arduum
+p2683
+VNothing [is] arduous for the willing
+p2684
+sVidem(dito)(id.)
+p2685
+Vthe same
+p2686
+sVmalo periculosam libertatem quam quietum servitium
+p2687
+VI prefer liberty with danger to peace with slavery
+p2688
+sVquo errat demonstrator
+p2689
+Vwhere the prover errs
+p2690
+sVomnia dicta fortiora si dicta Latina
+p2691
+Veverything said [is] stronger if said in Latin
+p2692
+sVservus servorum Dei
+p2693
+Vservant of the servants of God
+p2694
+sVnatura non facit saltum ita nec lex
+p2695
+Vnature does not make a leap, thus neither does the law
+p2696
+sVaurora australis
+p2697
+Vsouthern dawn
+p2698
+sVfides quaerens intellectum
+p2699
+Vfaith seeking understanding
+p2700
+sVad pondus omnium(ad pond om)
+p2701
+Vto the weight of all things
+p2702
+sVad utrumque paratus
+p2703
+Vprepared for either [alternative]
+p2704
+sVscientia et sapientia
+p2705
+Vknowledge and wisdom
+p2706
+sVsit tibi terra levis
+p2707
+Vmay the earth be light to you
+p2708
+sVex lege
+p2709
+Vfrom the law
+p2710
+sVoperari sequitur esse
+p2711
+Vact of doing something follows the act of being
+p2712
+sVut infra
+p2713
+Vas below
+p2714
+sVoperibus anteire
+p2715
+Vleading the way with deeds
+p2716
+sVhic sunt leones
+p2717
+Vhere there are lions
+p2718
+sVrespice adspice prospice
+p2719
+Vlook behind, look here, look ahead
+p2720
+sVexperimentum crucis
+p2721
+Vexperiment of the cross
+p2722
+sVnil nisi malis terrori
+p2723
+Vno terror, except to the bad
+p2724
+sVubi libertas ibi patria
+p2725
+Vwhere [there is] liberty, there [is] the fatherland
+p2726
+sVin propria persona
+p2727
+Vin one's own person
+p2728
+sVdeliriant isti Romani
+p2729
+VThey are mad, those Romans!
+p2730
+sVVeritas Dei vincit
+p2731
+VThe God's Truth prevails.
+p2732
+sVper definitionem
+p2733
+Vthrough the definition
+p2734
+sVignotus(ign.)
+p2735
+Vunknown
+p2736
+sVubi caritas et amor Deus ibi est
+p2737
+Vwhere there is charity and love, God is there
+p2738
+sVhomo bulla
+p2739
+Vman is a bubble
+p2740
+sVanglice
+p2741
+Vin English
+p2742
+sVper os(p.o.)
+p2743
+Vthrough the mouth
+p2744
+sVExhortation to enjoy fully the youth, similar toCarpe diem, fromDe rosis nascentibus(also titledIdyllium de rosis) attributed toAusoniusorVirgil.
+p2745
+V
+sVad infinitum
+p2746
+Vtoinfinity
+p2747
+sVhortus siccus
+p2748
+VA dry garden
+p2749
+sVad usum proprium(ad us. propr.)
+p2750
+Vfor one's own use
+p2751
+sVDeus spes nostra
+p2752
+VGod is our hope
+p2753
+sVmeliora
+p2754
+Vbetter things
+p2755
+sVprovehito in altum
+p2756
+Vlaunch forward into the deep
+p2757
+sVodi profanum vulgus et arceo
+p2758
+VI hate the unholy rabble and keep them away
+p2759
+sVsine ira et studio
+p2760
+Vwithout anger and fondness
+p2761
+sVfinis vitae sed non amoris
+p2762
+Vthe end of life, but not of love
+p2763
+sVobliti privatorum, publica curate
+p2764
+VForget private affairs, take care of public ones
+p2765
+sVper annum(pa.)
+p2766
+Vper year
+p2767
+sVego te absolvo
+p2768
+VI absolve you
+p2769
+sVa Deucalione
+p2770
+VfromorsinceDeucalion
+p2771
+sVnon mihi solum
+p2772
+Vnot for myself alone
+p2773
+sVinter urinas et faeces nascimur
+p2774
+Vwe are born between urine and feces
+p2775
+sVsuo motu
+p2776
+Vupon one's own initiative
+p2777
+sVnitimur in vetitum
+p2778
+VWe strive for the forbidden
+p2779
+sVmore ferarum
+p2780
+Vlike beasts
+p2781
+sVanno regni
+p2782
+VIn the year of the reign
+p2783
+sVomnes vulnerant, postuma necatoromnes feriunt, ultima necat
+p2784
+Vall [the hours] wound, last one kills
+p2785
+sVquod vide(q.v.)
+p2786
+Vwhich see
+p2787
+sVagere sequitur (esse)
+p2788
+Vaction follows being
+p2789
+sVDeo et patriae
+p2790
+Vfor God and Country
+p2791
+sVut tensio sic vis
+p2792
+Vas the extension, so the force
+p2793
+sVcurriculum vitae
+p2794
+Vcourse of life
+p2795
+sVnullus funus sine fidula
+p2796
+VNo Funeral Without a Fiddle
+p2797
+sVcruci dum spiro fido
+p2798
+Vwhile I live, I trust in the cross, Whilst I trust in the Cross I have life
+p2799
+sVsilentium est aureum
+p2800
+Vsilence is golden
+p2801
+sVpro bonopublico
+p2802
+Vfor the public good
+p2803
+sVrex regum fidelum et
+p2804
+Vking even of faithful kings
+p2805
+sVsic
+p2806
+Vthus
+p2807
+sVlux tua nos ducat
+p2808
+VYour Light Guides Us
+p2809
+sVdo ut des
+p2810
+VI give that you may give
+p2811
+sVpater peccavi
+p2812
+Vfather, I have sinned
+p2813
+sVsi quaeris peninsulam amoenam circumspice
+p2814
+Vif you seek a delightful peninsula, look around
+p2815
+sVmagna est vis consuetudinis
+p2816
+Vgreat is the power of habit
+p2817
+sVqui bene cantat bis orat
+p2818
+Vhe who sings well praises twice
+p2819
+sVex abundantia enim cordis os loquitur
+p2820
+VFor out of the abundance of the heart the mouth speaketh.
+p2821
+sVin loco parentis
+p2822
+Vin the place of a parent
+p2823
+sVCredo in Unum Deum
+p2824
+VI Believe in One God
+p2825
+sVlex lata
+p2826
+Vthe law that has been borne
+p2827
+sVquaere
+p2828
+Vto seek
+p2829
+sVDeo vindice
+p2830
+Vwith God as protector
+p2831
+sVultima ratio
+p2832
+Vlast methodthe final argumentthe last resort (as force)
+p2833
+sVNihil sine Deo
+p2834
+VNothing without God
+p2835
+sVaddendum
+p2836
+Vthing to be added
+p2837
+sVdisce aut discede
+p2838
+VLearn or Depart
+p2839
+sVmodus ponens
+p2840
+Vmethod of placing
+p2841
+sVvanitas vanitatum omnia vanitas
+p2842
+Vvanity of vanities; everything [is] vanity
+p2843
+sVsit nomine digna
+p2844
+Vmay it be worthy of the name
+p2845
+sVsui iuris
+p2846
+VOf one's own right
+p2847
+sVagenda
+p2848
+Vthings to be done
+p2849
+sVad hominem
+p2850
+Vto the man
+p2851
+sVnon facias malum ut inde fiat bonum
+p2852
+Vyou should not make evil in order that good may be made from it
+p2853
+sVnolle prosequi
+p2854
+Vto be unwilling to prosecute
+p2855
+sVcessante ratione legis cessat ipsa lex
+p2856
+Vwhen the reason for the law ceases, the law itself ceases
+p2857
+sVnullum crimen, nulla poena sine praevia lege poenali
+p2858
+Vno crime, no punishment without a previous penal law
+p2859
+sVobscurum per obscurius
+p2860
+Vthe obscure by means of the more obscure
+p2861
+sVars gratia artis
+p2862
+Vart for art's sake
+p2863
+sVad hoc
+p2864
+Vto this
+p2865
+sVsit venia verbo
+p2866
+Vmay there be forgiveness for the word
+p2867
+sVQuod scripsi, scripsi.
+p2868
+VWhat I have written I have written.
+p2869
+sVab inconvenienti
+p2870
+Vfrom an inconvenient thing
+p2871
+sVcondemnant quod non intellegunt
+p2872
+VThey condemn what they do not understand orThey condemn because they do not understand
+p2873
+sVsummum ius, summa iniuria
+p2874
+Vsupreme justice, supreme injustice
+p2875
+sVamor vincit omnia
+p2876
+Vlove conquers all
+p2877
+sVin fieri
+p2878
+Vin becoming
+p2879
+sVigne natura renovatur integra
+p2880
+Vthrough fire, nature is reborn whole
+p2881
+sVin cauda venenum
+p2882
+Vthe poison is in the tail
+p2883
+sVde mortuis nil nisi bonum
+p2884
+Vabout the dead, nothing unless a good thing
+p2885
+sVclerico convicto commisso gaolae in defectu ordinarii deliberando
+p2886
+V&#160;
+p2887
+sVConfoederatio Helvetica(C.H.)
+p2888
+VHelvetianConfederation
+p2889
+sVfortes in fide
+p2890
+Vstrong in faith
+p2891
+sVhistoria vitae magistra
+p2892
+Vhistory, the teacher of life
+p2893
+sVnullius in verba
+p2894
+VOn the word of no man
+p2895
+sVin extremis
+p2896
+Vin the furthest reaches
+p2897
+sVPax Sinica
+p2898
+VChinese Peace
+p2899
+sVcaetera desunt
+p2900
+Vthe rest is missing
+p2901
+sVvince malum bono
+p2902
+VOvercome Evil with Good
+p2903
+sVLaudetur Jesus Christus
+p2904
+VPraise (Be) Jesus Christ
+p2905
+sVsum quod eris
+p2906
+VI am what you will be
+p2907
+sVobscuris vera involvens
+p2908
+Vthe truth being enveloped by obscure things
+p2909
+sVipsa scientia potestas est
+p2910
+Vknowledge itself is power
+p2911
+sVde omni re scibili et quibusdam aliis
+p2912
+Vabout every knowable thing, and even certain other things
+p2913
+sVesse est percipi
+p2914
+Vto be is to be perceived
+p2915
+sVpersona non grata
+p2916
+Vperson not pleasing
+p2917
+sVequo ne credite
+p2918
+Vdo not trust the horse
+p2919
+sVvictrix causa diis placuit sed victa Catoni
+p2920
+Vthe victorious cause pleased the gods, but the conquered cause pleasedCato
+p2921
+sVmotu proprio
+p2922
+Von his own initiative
+p2923
+sVargentum album
+p2924
+Vwhite silver
+p2925
+sVamor et melle et felle est fecundissimus
+p2926
+Vlove is rich with both honey and venom
+p2927
+sVacta deos numquam mortalia fallunt
+p2928
+Vmortal actions never deceive the gods
+p2929
+sVnatura non contristatur
+p2930
+Vnature is not saddened
+p2931
+sVlex artis
+p2932
+Vlaw of the skill
+p2933
+sVnemo dat quod non habet
+p2934
+Vno one gives what he does not have
+p2935
+sVab uno disce omnes
+p2936
+Vfrom one, learn all
+p2937
+sVquod erat demonstrandum(Q.E.D.)
+p2938
+Vwhat was to be demonstrated
+p2939
+sVhinc et inde
+p2940
+Vfrom both sides
+p2941
+sVex astris scientia
+p2942
+VFrom the Stars, Knowledge
+p2943
+sVamor patriae
+p2944
+Vlove of one's country
+p2945
+sVSenatus Populusque Romanus(SPQR)
+p2946
+VTheSenateand the People of Rome
+p2947
+sVcombinatio nova
+p2948
+Vnew combination
+p2949
+sVqua patet orbis
+p2950
+Vas far as the world extends
+p2951
+sVconsummatum est
+p2952
+VIt is completed.
+p2953
+sVpraesis ut prosis ne ut imperes
+p2954
+VLead in order to serve, not in order to rule.
+p2955
+sVnemo est supra legis
+p2956
+Vnobody is above the law
+p2957
+sVnemo saltat sobrius
+p2958
+VNobody dances sober
+p2959
+sVlapsus linguae
+p2960
+Vslip of the tongue; inadvertent remark
+p2961
+sVleges sine moribus vanae
+p2962
+Vlaws without morals [are] vain
+p2963
+sVvitai lampada tradunt
+p2964
+VThey hand on the torch of life
+p2965
+sVcrescamus in Illo per omnia
+p2966
+VMay we grow in Him through all things
+p2967
+sVcalix meus inebrians
+p2968
+Vmy cup making me drunk
+p2969
+sVuberrima fides
+p2970
+Vmost abundant faith
+p2971
+sVex facie
+p2972
+Vfrom the face
+p2973
+sVduae tabulae rasae in quibus nihil scriptum est
+p2974
+VTwo blank slates with nothing written upon them
+p2975
+sVvox nihili
+p2976
+Vvoice of nothing
+p2977
+sVanno(an.)
+p2978
+Vin the year
+p2979
+sVad arbitrium
+p2980
+Vat will, at pleasure
+p2981
+sVmodus morons(Dog Latin)
+p2982
+V\u2014
+sVbusillis
+p2983
+V\u2014
+sVad augusta per angusta
+p2984
+Vto rise to a high position overcoming hardships.
+p2985
+sVtertium quid
+p2986
+Va third something
+p2987
+sVquod erat faciendum(Q.E.F)
+p2988
+Vwhich was to be done
+p2989
+sVquid abundat non obstat
+p2990
+Vwhat is abundant doesn't hinder
+p2991
+sVregnat populus
+p2992
+Vthe people rule
+p2993
+sVstupor mundi
+p2994
+Vthe wonder of the world
+p2995
+sVPraga Caput Rei publicae
+p2996
+VPrague, Head of the Republic
+p2997
+sVfelo de se
+p2998
+Vfelon from himself
+p2999
+sVsunt pueri pueri, pueri puerilia tractant
+p3000
+VChildren are children, and children do childish things
+p3001
+sVaudentes fortuna iuvat
+p3002
+Vfortune favors the bold
+p3003
+sVmors tua, vita mea
+p3004
+Vyour death, my life
+p3005
+sVex post
+p3006
+Vfrom after
+p3007
+sVcum mortuis in lingua mortua
+p3008
+Vwith the dead in a dead language
+p3009
+sVsol omnia regit
+p3010
+Vthe sun rules over everything
+p3011
+sVveritatem dilexi
+p3012
+VI delight in (or, I have chosen) the truth.
+p3013
+sVlibera te tutemet (ex inferis)
+p3014
+VFree yourself (from hell)
+p3015
+sVsi quid novisti rectius istis, candidus imperti; si nil, his utere mecum.
+p3016
+Vif you can better these principles, tell me; if not, join me in following them
+p3017
+sVbonum commune communitatis
+p3018
+Vcommon good of the community
+p3019
+sVfestina lente
+p3020
+Vhurry slowly
+p3021
+sVfacta, non verba
+p3022
+Vdeeds, not words
+p3023
+sVnon timebo mala
+p3024
+VI will fear no evils
+p3025
+sVhomo praesumitur bonus donec probetur malus
+p3026
+VOne is innocent until proven guilty
+p3027
+sVPax Mongolica
+p3028
+VMongolian Peace
+p3029
+sVcompos mentis
+p3030
+Vin control of the mind
+p3031
+sVnil mortalibus ardui est
+p3032
+Vnothing is impossible for humankind
+p3033
+sVnon possumus
+p3034
+Vnot possible
+p3035
+sVnil admirari
+p3036
+Vbe surprised at nothing
+p3037
+sVlaus Deo
+p3038
+Vpraise be to God
+p3039
+sVfons et origo
+p3040
+Vthe spring and source
+p3041
+sVmisera est servitus ubi jus est aut incognitum aut vagum
+p3042
+Vmiserable is that state of slavery in which the law is unknown or uncertain
+p3043
+sVspecialia generalibus derogant
+p3044
+Vspecial departs from general
+p3045
+sVaut pax aut bellum
+p3046
+Veither peace or war
+p3047
+sVlex ferenda
+p3048
+Vthe law that should be borne
+p3049
+sVomnia cum deo
+p3050
+Vall with God
+p3051
+sVmultitudo sapientium sanitas orbis
+p3052
+Va multitude of the wise is the health of the world
+p3053
+sVquid est veritas
+p3054
+VWhat is truth?
+p3055
+sVsine nomine(s.n.)
+p3056
+V"without a name"
+p3057
+sVcommunibus locis
+p3058
+Vin common places
+p3059
+sVficta voluptatis causa sint proxima veris
+p3060
+Vfictions meant to please should approximate the truth
+p3061
+sVsi peccasse negamus fallimur et nulla est in nobis veritas
+p3062
+Vif we deny having made a mistake, we are deceived, and there's no truth in us
+p3063
+sVcrescit eundo
+p3064
+Vit grows as it goes
+p3065
+sVdulce et decorum est pro patria mori
+p3066
+VIt is sweet and honorable to die for the fatherland.
+p3067
+sVsumma summarum
+p3068
+Vall in all
+p3069
+sVAnnuit c\u0153ptis
+p3070
+VHe nods at things being begun
+p3071
+sVmos maiorum
+p3072
+Vthe custom of our ancestors
+p3073
+sVforsan et haec olim meminisse iuvabit
+p3074
+Vperhaps even these things will be good to remember one day
+p3075
+sVa posse ad esse
+p3076
+Vfrom being able to being
+p3077
+sVmalum discordiae
+p3078
+Vapple of discord
+p3079
+sVcredo quia absurdum est
+p3080
+VI believe it because it is absurd
+p3081
+sVmodus tollens
+p3082
+Vmethod of removing
+p3083
+sVlocus minoris resistentiae
+p3084
+Vplace of less resistance
+p3085
+sVnovus ordo seclorum
+p3086
+Vnew order of the ages
+p3087
+sVDeus Lux Mea Est
+p3088
+VGod is my Light
+p3089
+sVsapientia, pax, fraternitas
+p3090
+VWisdom, Peace, Fraternity
+p3091
+sVintra muros
+p3092
+Vwithin the walls
+p3093
+sVlex non scripta
+p3094
+Vlaw that has not been written
+p3095
+sVhumilitas occidit superbiam
+p3096
+Vhumility conquers pride
+p3097
+sVmanu propria(m.p.)
+p3098
+Vwith one's own hand
+p3099
+sVab antiquo
+p3100
+Vfrom the ancient
+p3101
+sVtreuga Dei
+p3102
+VTruce of God
+p3103
+sVfides qua creditur
+p3104
+Vthe faith by which it is believed
+p3105
+sVex post facto
+p3106
+Vfrom a thing done afterward
+p3107
+sVvera causa
+p3108
+Vtrue cause
+p3109
+sVet vir
+p3110
+Vand husband
+p3111
+sVLaboris gloria Ludi
+p3112
+VWork hard, Play hard
+p3113
+sVres nullius
+p3114
+Vnobody's property
+p3115
+sVfinis coronat opus
+p3116
+Vthe end crowns the work
+p3117
+sVamicus curiae
+p3118
+Vfriend of the court
+p3119
+sVlex tempus
+p3120
+Vtime is the law
+p3121
+sVPost mortem auctoris(p.m.a.)
+p3122
+Vafter the author's death
+p3123
+sVnon silba, sed anthar; Deo vindice
+p3124
+VNot for self, but for others; God will vindicate.
+p3125
+sVloco citato(lc)
+p3126
+Vin the place cited
+p3127
+sVrespondeat superior
+p3128
+Vlet the superior respond
+p3129
+sV["...", ...] dixit
+p3130
+V["...", ...] said
+p3131
+sVVeritas Liberabit Vos
+p3132
+VTruth Shall Set You Free
+p3133
+sVad meliora
+p3134
+VTowards better things
+p3135
+sVrisum teneatis, amici?
+p3136
+VCan you help laughing, friends?
+p3137
+sVpede poena claudo
+p3138
+Vpunishment comes limping
+p3139
+sVnomen nescio(N.N.)
+p3140
+VI do not know the name
+p3141
+sVproxime accessit
+p3142
+Vhe came next
+p3143
+sVcommunis opinio
+p3144
+Vcommon opinion
+p3145
+sVGravis Dulcis Immutabilis
+p3146
+Vserious sweet immutable
+p3147
+sVentitas ipsa involvit aptitudinem ad extorquendum certum assensum
+p3148
+Vreality involves a power to compel sure assent
+p3149
+sVdamnatio ad bestias
+p3150
+Vcondemnation to [the] beasts
+p3151
+sVmittimus
+p3152
+Vwe send
+p3153
+sVChristus Rex
+p3154
+VChrist the King
+p3155
+sVscientia vincere tenebras
+p3156
+Vconquering darkness by science
+p3157
+sVdamnant quod non intelligunt
+p3158
+VThey condemn what they do not understand
+p3159
+sVmissit me Dominus
+p3160
+Vthe Lord has sent me
+p3161
+sVlegi, intellexi, et condemnavi
+p3162
+VI read, understood, and condemned.
+p3163
+sVLabor omnia vincit
+p3164
+VHard work conquers all
+p3165
+sVhic sunt dracones
+p3166
+Vhere there are dragons
+p3167
+sVNatura Artis Magistra
+p3168
+VNature is the teacher of art
+p3169
+sVne plus ultra
+p3170
+Vnothing more beyond
+p3171
+sVvive ut vivas
+p3172
+Vlive so that you may live
+p3173
+sVvita incerta, mors certissima
+p3174
+VLife is uncertain, death is most certain
+p3175
+sVPraga Caput Regni
+p3176
+VPrague, Head of the Kingdom
+p3177
+sVde gustibus non est disputandum
+p3178
+Vthere is no disputing about tastes
+p3179
+sVvir prudens non contra ventum mingit
+p3180
+V"[A] wise man does not urinate [up] against the wind"
+p3181
+sVnec dextrorsum, nec sinistrorsum
+p3182
+VNeither to the right nor to the left
+p3183
+sVsolus ipse
+p3184
+VI alone
+p3185
+sVmulta paucis
+p3186
+VSay much in few words
+p3187
+sVlex talionis
+p3188
+Vthe law of retaliation
+p3189
+sVcirculus vitiosus
+p3190
+Vvicious circle
+p3191
+sVin necessariis unitas, in dubiis libertas, in omnibus caritas
+p3192
+Vin necessary things unity, in doubtful things liberty, in all things charity
+p3193
+sVin fine(i.f.)
+p3194
+Vin the end
+p3195
+sVomnia omnibus
+p3196
+Vall things to all men
+p3197
+sVcommunibus annis
+p3198
+Vin common years
+p3199
+sVinfra dignitatem(infra dig)
+p3200
+Vbeneath one's dignity
+p3201
+sVpanem et circenses
+p3202
+Vbread and circuses
+p3203
+sV[in] veritate et caritate
+p3204
+Vwith truth and love
+p3205
+sVleges humanae nascuntur, vivunt, et moriuntur
+p3206
+Vlaws of man are born, live and die
+p3207
+sVante bellum
+p3208
+Vbefore the war
+p3209
+sVut res magis valeat quam pereat
+p3210
+Vthat the matter may have effect rather than fail[47]
+p3211
+sVuna salus victis nullam sperare salutem
+p3212
+Vthe only safety for the conquered is to hope for no safety
+p3213
+sVora et labora
+p3214
+Vpray and work
+p3215
+sVMiles Gloriosus
+p3216
+VGlorious Soldier
+p3217
+sVpost nubila phoebus
+p3218
+Vafter the clouds, the sun
+p3219
+sVaut Caesar aut nihil
+p3220
+VeitherCaesaror nothing
+p3221
+sVsemper instans
+p3222
+Valways threatening
+p3223
+sVvita summa brevis spem nos vetat incohare longam
+p3224
+Vthe shortness of life prevents us from entertaining far-off hopes
+p3225
+sVpara bellum
+p3226
+Vprepare for war
+p3227
+sVsancta simplicitas
+p3228
+Vholy innocence
+p3229
+sVDominus fortitudo nostra
+p3230
+VThe Lord is our Strength
+p3231
+sVsola lingua bona est lingua mortua
+p3232
+Vthe only good language is a dead language
+p3233
+sVterminat hora diem; terminat auctor opus.
+p3234
+VThe hour finishes the day; the author finishes his work.
+p3235
+sVveritas unitas caritas
+p3236
+VTruth, Unity, Love
+p3237
+sVnulla dies sine linea
+p3238
+VNot a day without a line drawn.
+p3239
+sVcapax infiniti
+p3240
+Vholding the infinite
+p3241
+sVLibertas Quae Sera Tamen
+p3242
+Vfreedom which [is] however late
+p3243
+sVin omnia paratus
+p3244
+VReady for anything.
+p3245
+sVper quod
+p3246
+Vby reason of which
+p3247
+sVdiem perdidi
+p3248
+VI have lost the day
+p3249
+sVqui bono
+p3250
+Vwho with good
+p3251
+sVomnis vir tigris
+p3252
+Veveryone a tiger
+p3253
+sVex juvantibus
+p3254
+Vfrom that which helps
+p3255
+sVodi et amo
+p3256
+VI hate and I love
+p3257
+sVsi omnes... ego non
+p3258
+Vif all ones... not I
+p3259
+sVsemper ardens
+p3260
+Valways burning
+p3261
+sVad multos annos
+p3262
+Vto many years!
+p3263
+sVqualis artifex pereo
+p3264
+VAs what kind of artist do I perish?
+p3265
+sVid quod plerumque accidit
+p3266
+Vthat which generally happens
+p3267
+sVcarpe vinum
+p3268
+Vseize the wine
+p3269
+sVoratio directa
+p3270
+Vdirect speech
+p3271
+sVin vitro
+p3272
+Vin glass
+p3273
+sVcorruptio optimi pessima
+p3274
+Vthe corruption of the best is the worst
+p3275
+sVveritas vitæ magistra
+p3276
+VTruth is Life's Teacher.
+p3277
+sVars longa, vita brevis
+p3278
+Vart is long, life is short
+p3279
+sVNil igitur est mors ad nos
+p3280
+VDeath, therefore, is nothing to us.
+p3281
+sVmalum prohibitum
+p3282
+Vwrong due to being prohibited
+p3283
+sVde integro
+p3284
+Vagain, a second time
+p3285
+sVrara avis(Rarissima avis)
+p3286
+Vrare bird (very rare bird)
+p3287
+sVPax Christi
+p3288
+VPeace of Christ
+p3289
+sVante litteram
+p3290
+Vbefore the letter
+p3291
+sVannus mirabilis
+p3292
+Vwonderful year
+p3293
+sVlupus in fabula
+p3294
+Vthe wolf in the story
+p3295
+sVSi monumentum requiris, circumspice
+p3296
+VIf you seek a monument, look around you
+p3297
+sVsplendor sine occasu
+p3298
+Vbrightness without setting
+p3299
+sVcras amet qui nunquam amavit; quique amavit, cras amet
+p3300
+VMay he love tomorrow who has never loved before; And may he who has loved, love tomorrow as well
+p3301
+sVBeata Virgo Maria(BVM)
+p3302
+VBlessed Virgin Mary
+p3303
+sVmater familias
+p3304
+Vthe mother of the family
+p3305
+sVvim promovet insitam
+p3306
+Vpromotes one's innate power
+p3307
+sVnon impediti ratione cogitationis
+p3308
+Vunencumbered by the thought process
+p3309
+sVsub Iove frigido
+p3310
+Vunder cold Jupiter
+p3311
+sVadsum
+p3312
+VI am here
+p3313
+sVsidere mens eadem mutato
+p3314
+VThough the constellations change, the mind is universal
+p3315
+sVutraque unum
+p3316
+Vboth into one
+p3317
+sVpia desideria
+p3318
+Vpious longings
+p3319
+sVpalmam qui meruit ferat
+p3320
+Vlet whoever wins the palm bear it
+p3321
+sVin absentia
+p3322
+Vin the absence
+p3323
+sVnatura non facit saltus
+p3324
+Vnature makes no leaps
+p3325
+sVpro re nata(PRN, prn)
+p3326
+Vfor a thing that has been born
+p3327
+sVinter alios
+p3328
+Vamong others
+p3329
+sVomnia praesumuntur legitime facta donec probetur in contrarium
+p3330
+Vall things are presumed to be lawfully done, until it is shown [to be] in the reverse
+p3331
+sVa caelo usque ad centrum
+p3332
+Vfrom the sky to the center
+p3333
+sVveritas
+p3334
+Vtruth
+p3335
+sVCorpus Iuris Canonici
+p3336
+VBody ofCanon Law
+p3337
+sVin esse
+p3338
+Vin existence
+p3339
+sVcorruptus in extremis
+p3340
+Vcorrupt to the extreme
+p3341
+sVdies nonjuridicum
+p3342
+VDay withoutjudiciary
+p3343
+sVMontis Insignia Calpe
+p3344
+VBadge of the Rock ofGibraltar
+p3345
+sVmors omnibus
+p3346
+Vdeath to all
+p3347
+sVmanus manum lavat
+p3348
+Vone hand washes the other
+p3349
+sVnon olet
+p3350
+Vit doesn't smell
+p3351
+sVChristus nos liberavit
+p3352
+VChrist has freed us
+p3353
+sVcacoethes scribendi
+p3354
+Vinsatiable desire to write
+p3355
+sVipsissima voce
+p3356
+Vthe very 'voice' itself
+p3357
+sVad undas
+p3358
+Vto the waves
+p3359
+sVLex Paciferat
+p3360
+V
+sVDies Irae
+p3361
+VDay of Wrath
+p3362
+sVlibra(lb)
+p3363
+Vbalance; scales
+p3364
+sVoleum camino
+p3365
+V(pour) oil on the fire
+p3366
+sVnon teneas aurum totum quod splendet ut aurum
+p3367
+VDo not hold as gold all that shines as gold.
+p3368
+sVa capite ad calcem
+p3369
+Vfrom head to heel
+p3370
+sVper capsulam
+p3371
+Vthrough the small box
+p3372
+sVex officio
+p3373
+Vfrom the office
+p3374
+sVnon causa pro causa
+p3375
+Vnot the cause for the cause
+p3376
+sVdirigo
+p3377
+VI direct
+p3378
+sVlegem terrae
+p3379
+Vthe law of the land
+p3380
+sVdona nobis pacem
+p3381
+Vgive us peace
+p3382
+sVet alibi(et al.)
+p3383
+Vand elsewhere
+p3384
+sVvirtus unita fortior
+p3385
+Vvirtue united [is] stronger
+p3386
+sVexercitus sine duce corpus est sine spiritu
+p3387
+Van army without a leader is a body without a spirit
+p3388
+sVprimum mobile
+p3389
+Vfirst moving thing
+p3390
+sVusus est magister optimus
+p3391
+Vpractice is the best teacher.
+p3392
+sVMagna Carta
+p3393
+VGreat Charter
+p3394
+sVnomen nudum
+p3395
+Vnaked name
+p3396
+sVaudeamus
+p3397
+Vlet us dare
+p3398
+sVnulla poena sine lege
+p3399
+Vno penalty without a law
+p3400
+sVannus horribilis
+p3401
+Vhorrible year
+p3402
+sVDei sub numine viget
+p3403
+Vunder God's Spirit she flourishes
+p3404
+sVpeccavi
+p3405
+VI have sinned
+p3406
+sVpost tenebras lux, orpost tenebras spero lucem
+p3407
+Vafter darkness, [I hope for] light
+p3408
+sVmedia vita in morte sumus
+p3409
+VIn the midst of our lives we die
+p3410
+sViugulare mortuos
+p3411
+Vto cut the throat of corpses
+p3412
+sVper contra
+p3413
+Vthrough the contrary
+p3414
+sVpro Deo et Patria
+p3415
+VFor God and Country
+p3416
+sVMagna Europa est Patria Nostra
+p3417
+VGreat Europe is Our Fatherland
+p3418
+sVpollice compresso favor iudicabatur
+p3419
+Vgoodwill decided by compressed thumb
+p3420
+sVad fontes
+p3421
+Vto the sources
+p3422
+sVcuius regio, eius religio
+p3423
+Vwhose region, his religion
+p3424
+sVsi vis amari ama
+p3425
+VIf you want to be loved, love
+p3426
+sVcustos morum
+p3427
+Vkeeper of morals
+p3428
+sVde futuro
+p3429
+Vregarding the future
+p3430
+sVsedes incertae
+p3431
+Vseat (i.e. location) uncertain
+p3432
+sVbona vacantia
+p3433
+Vvacant goods
+p3434
+sVquamdiu (se) bene gesserit
+p3435
+Vas long as he shall have behaved well(legal Latin)
+p3436
+sVNihil Ultra
+p3437
+VNothing Beyond
+p3438
+sVhomo homini lupus
+p3439
+Vman [is a] wolf to man
+p3440
+sVplacet
+p3441
+Vit pleases
+p3442
+sVmare liberum
+p3443
+Vfree sea
+p3444
+sVin situ
+p3445
+Vin the place
+p3446
+sVhypotheses non fingo
+p3447
+VI do not fabricate hypotheses
+p3448
+sVstare decisis
+p3449
+Vto stand by the decided things
+p3450
+sVsub anno
+p3451
+Vunder the year
+p3452
+sVnumerus clausus
+p3453
+Vclosed number
+p3454
+sVverba docent exempla trahunt
+p3455
+VWords instruct, illustrations lead
+p3456
+sVasinus asinum fricat
+p3457
+Vthe jackass rubs the jackass
+p3458
+sVignorantia iuris non excusat
+p3459
+V(orignorantia legis non excusatorignorantia legis neminem excusat) ignorance of the law is no excuse
+p3460
+sVut supra
+p3461
+Vas above
+p3462
+sVpost prandial
+p3463
+Vafter the time before midday
+p3464
+sValis grave nil
+p3465
+Vnothing [is] heavy with wings
+p3466
+sVgeneralia specialibus non derogant
+p3467
+Vuniversal things do not detract from specific things
+p3468
+sVprimum non nocere
+p3469
+Vfirst, to not harm
+p3470
+sVnon vi, sed verbo
+p3471
+VNot through violence, but through the word alone
+p3472
+sVcuncti adsint meritaeque expectent praemia palmae
+p3473
+Vlet all come who by merit deserve the most reward
+p3474
+sVabsolutum dominium
+p3475
+Vabsolute dominion
+p3476
+sVSudetia non cantat
+p3477
+VOne doesn't sing on theSudeten Mountains
+p3478
+sVpro per
+p3479
+Vfor self
+p3480
+sV"nolite te bastardes carborundorum"(Dog Latin)
+p3481
+V"Don't let the bastards grind you down
+p3482
+sVqui totum vult totum perdit
+p3483
+Vhe who wants everything loses everything
+p3484
+sVper ardua
+p3485
+Vthrough adversity
+p3486
+sVfaciam ut mei memineris
+p3487
+VI'll make you remember me
+p3488
+sVaudax at fidelis
+p3489
+Vbold but faithful
+p3490
+sVin hunc effectum
+p3491
+Vfor this purpose
+p3492
+sVscio
+p3493
+VI know
+p3494
+sVhonor virtutis praemium
+p3495
+Vesteem is the reward of virtue
+p3496
+sVcasus belli
+p3497
+Vevent of war
+p3498
+sVquam bene vivas referre(orrefert), non quam diu
+p3499
+Vit is how well you live that matters, not how long
+p3500
+sVquo amplius eo amplius
+p3501
+VSomething more beyond plenty
+p3502
+sVex animo
+p3503
+Vfrom the heart
+p3504
+sVlex parsimoniae
+p3505
+Vlaw of succinctness
+p3506
+sVquater in die(qid)
+p3507
+Vfour times a day
+p3508
+s.
