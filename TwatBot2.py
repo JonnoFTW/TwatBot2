@@ -36,7 +36,7 @@ import MySQLdb
 import MySQLdb.cursors
 import twitter
 pluginList = [ web, mueval, amigo, ban,chans,  help, tell, scroll,
-    tweet,  lastfm, fullwidth, counterstrike, steam, privilege ]
+    tweet,  lastfm, fullwidth, counterstrike, steam, privilege,names]
 adminPlugins = [ joinpart, ban, quit , stat, reddit]
 
 try:
@@ -320,7 +320,7 @@ if __name__ == "__main__":
         chans = sys.argv[2:]
     else:
         server = "irc.rizon.net"
-        chans = ["#perwl","#pharmaceuticals"]
+        chans = ["#perwl","#pharmaceuticals",'#/fit/']
     print "Joining",chans,server
     f = BotFactory(chans,keys['nickpass'])
     reactor.connectTCP(server,6667,f)

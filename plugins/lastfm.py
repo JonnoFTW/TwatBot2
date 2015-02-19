@@ -43,8 +43,8 @@ def np(conn, data):
         n = data['words'][1]
     except:
         n = data['fool']
-    #name = conn.getName(n,'lastfm')
-    name = n
+    name = conn.getName(n,'lastfm')
+#    name = n
     #Get the users now playing shit
     u = json.load(urlopen("http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user="+quote(name.encode("utf-8"))+"&format=json&api_key="+key))
     try:
