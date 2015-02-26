@@ -21,7 +21,7 @@ def setTwitter(conn,data):
         conn.msg(data['chan'],'Usage is ^^settwitter twitterhandle')
 def setTwit(conn, msg,data):
         try:
-            result = conn.factory.api.PostUpdate(msg)
+            result = conn.factory.api.PostUpdate(msg+" "+data['chan'])
             link = "https://twitter.com/%s/status/%s"%(result.GetUser().screen_name,result.GetId())
             r = praw.Reddit(user_agent="perwl irc")
             r.login(conn.factory.keys['reddit_user'],conn.factory.keys['reddit_pass'])
@@ -66,13 +66,11 @@ def tweet(conn, data):
                 if any(map(lambda x: x.lower() in toSend.lower(), badwords)) and data['fool'] not in data.factory.admins:
                     conn.msg(data['chan'],'Naughty words not allowed')
                     return
-                
- 
                 if toSend.find("\001ACTION") != -1:
                     toSend = '*** ' + (toSend.replace(': \001ACTION', '', 1)[:-1])
                 print conn.chans[data['chan']]['users']
-                for user in conn.chans[data['chan']]['users']:
-                    toSend = re.sub("(?i)"+user,'@'+user,toSend)
+                #for user in conn.chans[data['chan']]['users']:
+                #    toSend = re.sub("(?i)"+user,'@'+user,toSend)
                 r = setTwit(conn, toSend,data)
                 if r:
                     conn.msg(data['chan'],'Sending to twitter') 
