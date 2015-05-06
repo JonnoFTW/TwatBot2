@@ -6,7 +6,14 @@ import threading
 def getTopic(conn,data):
     conn.msg(data['chan'],conn.chans[data['chan']]['topic'])
 def popTopic(conn,data):
-    conn.topic(data['chan'],' | '.join(map(lambda x: x.strip(),conn.chans[data['chan']]['topic'].split('|')[:-1])))
+    pieces = map(lambda x:x.strip(), conn.chans[data['chan']]['topic'].split('|'))
+    try:
+        pos = int(data['words'][1])
+        pieces.pop(pos)
+    except:
+        pieces.pop()
+    finally:
+        conn.topic(data['chan'],' | '.join(pieces))
 def appendTopic(conn,data):
     conn.topic(data['chan'],conn.chans[data['chan']]['topic']+'\003 | '+(' '.join(data['words'][1:])))
 def setnick(conn,data):

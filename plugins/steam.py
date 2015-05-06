@@ -36,7 +36,7 @@ def steam(conn, data):
                 
     except IndexError:
         #No id, perhaps they are stored
-        id = conn.getName(data['fool'],'steamId')
+        id = conn.getName(data['fool'],'steam')
         if not id:
             conn.msg(data['chan'],"No steamId associated with this nick. "+help2)
             return
@@ -84,7 +84,7 @@ def steam(conn, data):
 def setsteam(conn, data):
     #Associate a nick with a steam id for later use
     try:
-        conn.setName(data,data['fool'],data['words'][1],'steamId')
+        conn.setName(data,data['fool'],data['words'][1],'steam')
     except IndexError:
         conn.msg(data['chan'],'Please provide a steamId64 to associate your nick with. http://steamidfinder.com')
         

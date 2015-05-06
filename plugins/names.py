@@ -53,4 +53,9 @@ def get(conn,data):
 def set(conn,data):
     setName(conn,data,data['fool'],data['words'][2],data['words'][1])
 
-triggers = {'^get':get,'^set':set}
+def info(conn,data):
+    db = conn.getDB()
+    c = db.cursor()
+    c.execute("SELECT USER()")
+    conn.msg(data['chan'],c.fetchone()[0])
+triggers = {'^get':get,'^set':set,'^nameinfo':info}

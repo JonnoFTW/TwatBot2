@@ -128,11 +128,11 @@ def urban(conn, data):
         else:
             i = 0
         if data['words'][1].lower() == 'spam':
-            conn.msg(data['chan'], data['fool']+": What you are currently trying to achieve you pathetic fucking lowlife")
+            conn.msg(data['chan'], data['fool']+": What are you currently trying to achieve you pathetic fucking lowlife")
             return
         try:
             d = json.load(urllib2.urlopen("http://www.urbandictionary.com/iphone/search/define?term=" + ('%20'.join(data['words'][1:]))))
-            print json.dumps(d,indent=4)
+            #print json.dumps(d,indent=4)
         except urllib2.HTTPError, e:
             conn.msg(data['chan'],"Error: {}: {}".format(e.code, e.reason))
             return
@@ -152,8 +152,8 @@ def urban(conn, data):
                          word['thumbs_down'],
                          i+1,
                          len(d['list']), 
-                         word['definition'],
-                         word['example'][:756].replace('\n','')
+                         unicode(word['definition']),
+                         unicode(word['example'][:756].replace('\n',''))
                          )[:300]
                      )
     except IndexError, e:

@@ -7,11 +7,15 @@ def setGreet(conn,data):
     else:
         conn.factory.greets[data['fool']] = ' '.join(data['words'][1:][:128])
         conn.msg(data['chan'],"Greet set for "+data['fool'])
-        with open('greets','w') as f:
-            for i in conn.factory.greets.items():
-                f.write("%s %s\n"%i)
-
-
+        writeGreets(conn)
+def unsetGreet(conn,data):
+    del conn.factory.greets[data['fool']]
+    writeGreets(conn)
+    conn.msg(data['chan'],"Greet unset for "+data['fool'])
+def wtiteGreets(conn):
+    with open('greets','w') as f:
+        for i in conn.factory.greets.items():
+            f.write("%s %s\n"%i)
 def addTell(conn, data):
     """
     Usage: ^tell <to> <msg>
@@ -59,4 +63,4 @@ def getTell(conn, data):
         print e
         conn.notice(data['fool'],"Something went wrong telling the message! %s" % (str(e)))
 
-triggers = {'^tell':addTell, '^read':getTell,'^setgreet':setGreet}
+triggers = {'^tell':addTell, '^read':getTell,'^setgreet':setGreet,'^unsetgreet':unsetGreet}

@@ -35,4 +35,6 @@ def msg(conn, data):
         conn.msg(data['words'][1],' '.join(data['words'][2:]))
     except Exception:
         conn.msg(data['chan'],"Usage is ^msg <serverId> <channel> <message>")
-triggers = {'^join':join,'^part':part,'^msg':msg,'^reloadgreet':reloadgreet,'^tg':testgreets}
+def identify(conn, data):
+	conn.msg('nickserv','identify '+conn.factory.nickpass)
+triggers = {'^join':join,'^part':part,'^msg':msg,'^reloadgreet':reloadgreet,'^tg':testgreets,'^nsident':identify}
