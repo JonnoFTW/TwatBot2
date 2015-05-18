@@ -26,14 +26,15 @@ def addTell(conn, data):
     try:
       db = conn.getDB()
       cursor = db.cursor()
-      cursor.execute("""INSERT INTO tell (`to`,message,time,sender)
+      r = cursor.execute("""INSERT INTO tell (`to`,message,time,sender)
                      VALUES (%s,%s,NOW(),%s)""",
                      (data['words'][1],
                       ' '.join(data['words'][2:]),
                       data['fool']))
+      db.commit()
       conn.msg(data['chan'],"Consider it noted")
       conn.tells.add(data['words'][1])
-      print conn.tells
+      print r,conn.tells
     except IndexError, e:
       print e
       conn.msg(data['chan'],"Usage: ^tell <to> <message>")

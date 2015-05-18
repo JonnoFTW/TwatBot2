@@ -17,6 +17,7 @@ def setName(conn,data,fool,name,field):
         c.execute(q)
 #        print "rows:",c.affected_rows()
         c.close()
+        db.commit()
         conn.msg(data['chan'],"Set "+field+" for nick "+irc_nick+" to "+id)
     except IndexError:
         conn.msg(data['chan'],"Please supply a %s username to associate your nick with" % (field))
