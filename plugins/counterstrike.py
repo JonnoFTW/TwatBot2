@@ -78,9 +78,11 @@ def resetmaps(conn):
 
 def gg(conn, data):
     conn.msg(data['chan'],"gg")
-    
+def dank(conn, data):
+    conn.msg(data['chan'],"memes")    
 triggers ={  'ff':ff,
              '^cod':cod,
+             'dank':dank,
              'gg':gg,
              'thetime':thetime,
              'rank':rank,

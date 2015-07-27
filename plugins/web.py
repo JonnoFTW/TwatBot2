@@ -1,6 +1,9 @@
 
 # -*- coding: utf-8 -*-
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
+import csv
+from collections import defaultdict
+import StringIO
 import urllib2
 import urllib
 import json
@@ -67,40 +70,57 @@ def imdb(conn,data):
         conn.msg(data['chan'],"Usage is ^imdb <film title>")
 
 def shootout(conn,data):
-    if len(data['words']) != 3:
-        conn.msg(data['chan'],'Usage is %s <lang1> <lang2>. Scores are how much slower the compiler is than the fastest'%(data['words'][0]))
+    if len(data['words']) != 3 and not data['words'][1] == 'langs':
+        conn.msg(data['chan'],'Usage is %s <lang1> <lang2>. Scores are how much slower the compiler is than the fastest. Use "^shootout langs" to show all languages'%(data['words'][0]))
         return
-    page = BeautifulSoup(urllib2.urlopen('http://benchmarksgame.alioth.debian.org/u64q/which-programs-are-fastest.php'))
-    # A map of lang->median
-    langs = {}
-    for i in page.findAll('table')[-1].findAll('tr')[2:-1]:
-        cells = i.findAll('td')
-        langs[cells[1].text.replace('&nbsp;',' ')] = cells[5].text
-    print langs
-    s1 = data['words'][1]
-    s2 = data['words'][2]
-    l1 = ''
-    l2 = ''
-    base = ''
-    for i in langs:
-        if s1.lower() == i.split(' ')[0].lower():
-            l1 = i
-        elif s2.lower() == i.split(' ')[0].lower():
-            l2 = i
-        if langs[i] == '1.00':
-            base = i
-    if l2 == '' or l1 == '':
+    page = BeautifulSoup(urllib2.urlopen('http://benchmarksgame.alioth.debian.org/u64q/summarydata.php'),'html.parser')
+    
+    lines = str(page.find(id='summarydata').p).split('<br/>')
+    lines[0] = lines[0][3:60]
+    lines.pop()
+    reader = csv.DictReader(lines)
+
+    f = lambda: defaultdict(list)
+    langs = defaultdict(f)
+
+    for row in reader:
+        lang = row['lang'].lower().replace(' ','-')
+        langs[lang][row['name']].append({'mem(KB)':row['mem(KB)'],'elapsed':row['elapsed']})
+        
+    if data['words'][1].lower() =='langs':
+        conn.msg(data['chan'], ', '.join(sorted(langs.keys())))
+
+    l1 = data['words'][1].lower()
+    l2 = data['words'][2].lower()
+
+    if any(map(lambda x: x not in langs,[l1,l2])):
         conn.msg(data['chan'],"No such language found")
     else:
-        best  = min([langs[l1],langs[l2]])
-        worst = max([langs[l1],langs[l2]])
-        if best == langs[l1]:
-            best  = l1 +': '+ best
-            worst = l2 +': '+ worst
+        c1,c2,m1,m2 = 0,0,0,0
+        t1 = langs[l1]
+        t2 = langs[l2]
+        tests = set(t1.keys()).intersection(set(t2.keys()))
+        print "Comparing",l1,"to",l2,"with tests",tests
+        for test in tests:
+            idx = len(t1[test])/2
+            r1 = t1[test][idx]
+            r2 = t2[test][idx]
+            if r1['elapsed'] < r2['elapsed']:
+                c1 += 1
+            else:
+                c2 += 1
+            if r1['mem(KB)'] < r2['mem(KB)']:
+                m1 +=1
+            else:
+                m2 +=1
+        if c1 > c2:
+            msg= l1,"wins!",c1,"-",c2
+        elif c2 == c1:
+            msg= l2,"and",l1,"are equal!"
         else:
-            best  = l2 +': '+ best
-            worst = l1 +': '+ worst
-        conn.msg(data['chan'],"Shootout results: %s > %s. Scores show that the languages are x times slower than '%s'"%(best,worst,base))
+            msg = l2,"wins!",c2,"-",c1
+        conn.msg(data['chan'],"In speed "+(' '.join(map(lambda x: str(x),msg)))+", in memory use: "+l1+": "+str(m1)+", "+l2+": "+str(m2))
+
 
 def ip(conn, data):
     if data['fool'] in conn.factory.admins:
