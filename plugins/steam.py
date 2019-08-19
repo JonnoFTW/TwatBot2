@@ -1,7 +1,8 @@
 import json
 import re
-from urllib2 import urlopen, HTTPError
-from urllib  import quote
+from urllib.request import urlopen
+from urllib.error import HTTPError
+from urllib.parse  import quote
 
 
 help = "^steam <steamid> will get userinfo for the user" 
@@ -46,7 +47,7 @@ def steam(conn, data):
     k = json.load(urlopen("http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=" + key + "&steamids=" + id))
     if len(k['response']['players']) == 0:
         conn.msg(data['chan'],"No such user exists! Please specify a valid steamId64 ")
-        print k
+        print(k)
         return
     p = k["response"]["players"][0]
     if "primaryclanid" in p:

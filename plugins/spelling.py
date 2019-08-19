@@ -1,6 +1,6 @@
-from urllib2 import urlopen, Request
+from urllib.request import urlopen, Request
 from BeautifulSoup import BeautifulSoup
-import cPickle
+import pickle
 
 mistakes = {}
 ##for i in string.ascii_uppercase:
@@ -22,5 +22,5 @@ for i in page.find("pre").text.splitlines():
   mistakes[j[0]] = j[1]
 
 out = open("mistakes.pkl","wb")
-cPickle.dump(mistakes, out)
+pickle.dump(mistakes, out)
 out.close()

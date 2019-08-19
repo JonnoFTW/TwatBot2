@@ -6,7 +6,7 @@ import threading
 def getTopic(conn,data):
     conn.msg(data['chan'],conn.chans[data['chan']]['topic'])
 def popTopic(conn,data):
-    pieces = map(lambda x:x.strip(), conn.chans[data['chan']]['topic'].split('|'))
+    pieces = [x.strip() for x in conn.chans[data['chan']]['topic'].split('|')]
     try:
         pos = int(data['words'][1])
         pieces.pop(pos)
@@ -23,12 +23,12 @@ def setnick(conn,data):
         conn.setNick(data['words'][1])
         conn.msg("Nickserv","identify "+conn.factory.nickpass)
     except:
-        conn.sendMsg(data['chan'],"Usage is: ^setnick <nick>")
+        conn.msg(data['chan'],"Usage is: ^setnick <nick>")
 def t(conn,data):
     conn.msg(data['chan'],"\001ACTION tests\001")
 
 def threads(conn, data):
-    conn.msg(data['chan'],", ".join(map(lambda x: x.getName(), threading.enumerate())))
+    conn.msg(data['chan'],", ".join([x.getName() for x in threading.enumerate()]))
   
 def stat(conn, data):
   r = resource.getrusage(resource.RUSAGE_SELF)
@@ -41,7 +41,7 @@ def stat(conn, data):
 def cmds(conn, data):  
     s = ''
     for i in conn.plugins:
-        s += str(i.triggers.keys())
+        s += str(list(i.triggers.keys()))
     conn.msg(data['fool'],s)
   
 def ddos(conn, data):
@@ -49,6 +49,28 @@ def ddos(conn, data):
         conn.msg(data['chan'],"Now DDoSing " + data['words'][1])
     except:
         conn.msg(data['chan'],"Now DDoSing " + data['fool'])
+def zizek(conn, data):
+    if data['fool'] not in conn.factory.admins:
+        return;
+    try:
+        if data['words'][1] == "on":
+            conn.zizek = True
+            conn.msg(data['chan'],"Slavoj Žižek mode engaged")
+        elif data['words'][1] == "off":
+            conn.zizek = False
+            conn.msg(data['chan'],"Slavoj Žižek mode disengaged")
+        else:
+            conn.msg(data['chan'],"^zizek on|off")
+    except AttributeError:
+        conn.zizek = False
+        conn.msg(data['chan'],"zizek mode is "+str(conn.zizek))
+    except IndexError as e:
+        try:
+            conn.msg(data['chan'],"zizek mode is "+str(conn.zizek))
+        except AttributeError:
+            conn.zizek = False
+            conn.msg(data['chan'],"zizek mode is "+str(conn.zizek))
+
 def tbbt(conn, data):
     if data['fool'] not in conn.factory.admins:
         return;
@@ -64,7 +86,7 @@ def tbbt(conn, data):
     except AttributeError:
         conn.tbbt = False
         conn.msg(data['chan'],"TBBT mode is "+str(conn.tbbt))
-    except IndexError, e:
+    except IndexError as e:
         try:
             conn.msg(data['chan'],"TBBT mode is "+str(conn.tbbt))
         except AttributeError:
@@ -82,7 +104,7 @@ def nazi(conn, data):
             conn.msg(data['chan'],"Spelling nazi mode disengaged")
         else:
             conn.msg(data['chan'],"^nazi on|off")
-    except IndexError, e:
+    except IndexError as e:
         conn.msg(data['chan'],"nazi mode is "+str(conn.nazi))
     except AttributeError:
         conn.nazi = False
@@ -98,7 +120,7 @@ def ignore(conn, data):
             f.write(user+"\n")
             conn.factory.ignores.append(user)
             conn.msg(data['chan'], "Ignoring "+user)
-    except IndexError, e:
+    except IndexError as e:
         conn.msg(data['chan'], "^ignore user")
 def debug(conn, data):
     try:
@@ -119,4 +141,4 @@ def kick(conn,data):
     conn.chans[data['channel']]['kicks'].append((data['fool'],time.time()))
     conn.detectMassKick(data['chan'])
 triggers = {'^setnick':setnick,'^tbbt':tbbt,'^t':t,'^stat':stat, '^printAll':debug, '^ddos':ddos, '^threads':threads, '^nazi':nazi, '^cmds':cmds, '^ignore':ignore,".k":kick,".kick":kick,".kb":kick,".kickban":kick,
-            '^poptopic':popTopic,'^appendtopic':appendTopic,'^gettopic':getTopic}
+            '^poptopic':popTopic,'^appendtopic':appendTopic,'^gettopic':getTopic, '^zizek':zizek}

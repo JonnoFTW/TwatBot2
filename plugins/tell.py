@@ -14,7 +14,7 @@ def unsetGreet(conn,data):
     conn.msg(data['chan'],"Greet unset for "+data['fool'])
 def wtiteGreets(conn):
     with open('greets','w') as f:
-        for i in conn.factory.greets.items():
+        for i in list(conn.factory.greets.items()):
             f.write("%s %s\n"%i)
 def addTell(conn, data):
     """
@@ -34,20 +34,19 @@ def addTell(conn, data):
       db.commit()
       conn.msg(data['chan'],"Consider it noted")
       conn.tells.add(data['words'][1])
-      print r,conn.tells
-    except IndexError, e:
-      print e
+      print(r,conn.tells)
+    except IndexError as e:
+      print(e)
       conn.msg(data['chan'],"Usage: ^tell <to> <message>")
-    except Exception, e:
+    except Exception as e:
         conn.msg(data['chan'],"Something went wrong telling the message! %s" % (str(e)))
 
 def getTell(conn, data):
-    try:
+#    try:
       db = conn.getDB()
       cursor = db.cursor()
       cursor.execute("""SELECT tell.sender, tell.message, tell.time
-                        FROM tell WHERE `to` = %s
-                     """, (data['fool']))
+                        FROM tell WHERE `to` = %s""", [data['fool']])
       msgs = cursor.fetchall()
       if len(msgs) == 0:
           conn.notice(data['user'],"You have no messages")
@@ -55,13 +54,13 @@ def getTell(conn, data):
           conn.notice(data['user'],"You have the following messages: ")
           for i in msgs:
               try:
-                  conn.notice(data['user'],u"From: {0} on {1} -----> {2}".format(i[0], i[2], i[1]).decode('utf-8'))
+                  conn.notice(data['user'],"From: {0} on {1} -----> {2}".format(i[0], i[2], i[1]).decode('utf-8'))
               except:
                   pass
-          cursor.execute("DELETE FROM tell WHERE `to` = %s", (data['fool']))
+          cursor.execute("DELETE FROM tell WHERE `to` = %s", [data['fool']])
           cursor.close()
-    except Exception, e:
-        print e
-        conn.notice(data['fool'],"Something went wrong telling the message! %s" % (str(e)))
+ #   except Exception, e:
+  #      print e
+   #     conn.notice(data['fool'],"Something went wrong telling the message! %s" % (str(e)))
 
 triggers = {'^tell':addTell, '^read':getTell,'^setgreet':setGreet,'^unsetgreet':unsetGreet}

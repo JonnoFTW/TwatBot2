@@ -1,14 +1,22 @@
 import praw
 def redditvote(conn,data):
-	r = praw.Reddit(user_agent='perwl irc')
+	r = praw.Reddit(
+        user_agent='perwl irc',
+        client_id=conn.factory.keys['reddit_client_id'],
+        client_secret=conn.factory.keys['reddit_client_secret'],
+        username=conn.factory.keys['reddit_user'],
+        password=conn.factory.keys['reddit_pass'])
 	usage = 'Usage is: ^reddit thing_id up|down'
-	r.login(conn.factory.keys['reddit_user'],conn.factory.keys['reddit_pass'])
+#	r.login(conn.factory.keys['reddit_user'],conn.factory.keys['reddit_pass'])
+#	r.set_oauth_app_info(client_id=conn.factory.keys['reddit_client_id'],
+#	client_secret=conn.factory.keys['reddit_client_secret'],
+#	redirect_uri='http://127.0.0.1:65010/authorize_callback')
 	if len(data['words'])!=3:
 		conn.msg(data['chan'],usage)
 		return
 	else:
-		s = r.get_submission(submission_id=data['words'][1])
-		title =s.short_link
+		s = r.submission(id=data['words'][1])
+		title =s.shortlink
 		if data['words'][2].lower() == 'down':
 			s.downvote()
 			conn.msg(data['chan'],"Down voted "+title)

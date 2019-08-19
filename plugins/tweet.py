@@ -1,3 +1,6 @@
+import humanize
+from datetime import datetime
+import html
 import re
 import random
 import praw
@@ -7,11 +10,10 @@ tags = ["perwlcon", "perwl", "perl", "python"]
 
 def getTwit(conn, user,idx):
         try:
-            print "user=",user
-            
+            print("user=",user)
             result = conn.factory.api.GetUserTimeline(screen_name=user)[idx]
-            print result
-        except Exception, e:
+            print(result)
+        except Exception as e:
             result = 'Could not get twitter ' + str(e)
         return result
 def setTwitter(conn,data):
@@ -21,14 +23,15 @@ def setTwitter(conn,data):
         conn.msg(data['chan'],'Usage is ^^settwitter twitterhandle')
 def setTwit(conn, msg,data):
         try:
-            result = conn.factory.api.PostUpdate(msg+" "+data['chan'])
-            link = "https://twitter.com/%s/status/%s"%(result.GetUser().screen_name,result.GetId())
-            r = praw.Reddit(user_agent="perwl irc")
-            r.login(conn.factory.keys['reddit_user'],conn.factory.keys['reddit_pass'])
-            r.submit('perwl','%s: %s'%(data['chan'],msg),url=link)
+            result = conn.factory.api.PostUpdate(msg+" "+data['chan']).AsDict()
+            link = "https://twitter.com/%s/status/%s"%(result['user']['screen_name'],result['id_str'])
+            result['link_'] = link
+            return result
+            r = praw.Reddit(user_agent="perwl irc", client_id=conn.factory.keys['reddit_client_id'], client_secret=conn.factory.keys['reddit_client_id'], username=conn.factory.keys['reddit_user'], password=conn.factory.keys['reddit_pass'])
+            r.subreddit('perwl').submit('%s: %s'%(data['chan'],msg),url=link)
 
             return result
-        except Exception, e:
+        except Exception as e:
             conn.msg(data['chan'],'\0030,2Twitter\003 Could not update twitter: ' + str(e))
             return False
 
@@ -63,35 +66,38 @@ def tweet(conn, data):
                 for i in tags:
                     toSend = toSend.replace(i, "#" + i)
                 #toSend = ' '.join(map(lambda x: tag(x),toSend.split()))
-                if any(map(lambda x: x.lower() in toSend.lower(), badwords)) and data['fool'] not in data.factory.admins:
+                if any([x.lower() in toSend.lower() for x in badwords]) and data['fool'] not in data.factory.admins:
                     conn.msg(data['chan'],'Naughty words not allowed')
                     return
                 if toSend.find("\001ACTION") != -1:
                     toSend = '*** ' + (toSend.replace(': \001ACTION', '', 1)[:-1])
-                print conn.chans[data['chan']]['users']
+                print(conn.chans[data['chan']]['users'])
                 #for user in conn.chans[data['chan']]['users']:
                 #    toSend = re.sub("(?i)"+user,'@'+user,toSend)
                 r = setTwit(conn, toSend,data)
                 if r:
-                    conn.msg(data['chan'],'Sending to twitter') 
+                    conn.msg(data['chan'],'Sent to twitter '+r['link_'])
                 else:
                     conn.msg(data['chan'],'Failed to send')
 
 def last(conn, data):
     try:
         user = data['words'][1]
-    except Exception, e:
-        print e
+    except Exception as e:
+        print(e)
         user = "Buttsworth_"
     idx = 0
     if len(data['words']) > 2 and data['words'][2].isdigit():
         idx = int(data['words'][2])
 
     t = getTwit(conn, user,idx)
+    print(type(t))
     try:
-        conn.msg(data['chan'],"\0030,2Twitter\003 %s %s: %s " % (t.user.screen_name, t.relative_created_at, t.text))
-    except:
-        conn.msg(data['chan'],t)
+        print(t.AsDict())
+        #Wed May 22 01:56:44 +0000 2019
+        conn.msg(data['chan'],"\0030,2Twitter\003 %s %s: %s %s" % (t.user.screen_name, humanize.naturaltime(datetime.utcnow() - datetime.strptime(t.created_at,'%a %b %d %H:%M:%S +0000 %Y')), html.unescape(t.text), "https://twitter.com/{}/status/{}".format(t.user.screen_name,t.id_str)))
+    except Exception as e:
+        conn.msg(data['chan'],str(e))
 
 def twatter(conn, data):
     try:

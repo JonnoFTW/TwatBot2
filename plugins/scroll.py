@@ -5,10 +5,10 @@ def scroll(conn, data):
     if len(data['words']) > 1:
         try:
             conn.notice(data['user'],"Scroll at "+ data['words'][1] + ": " + conn.chans[data['chan']]['scroll'][int(data['words'][1])])
-        except Exception, err:
+        except Exception as err:
             conn.notice(data['user'],"Perhaps if you used a number < 10, "+str(err)+ (' '*(random.randint(1,5))))
     else:
-        conn.notice(data['fool'],' '.join(map(lambda x: "%d: %s;"%x,enumerate(conn.chans[data['chan']]['scroll']))).decode('utf-8','replace'))
+        conn.notice(data['fool'],' '.join(["%d: %s;"%x for x in enumerate(conn.chans[data['chan']]['scroll'])]))
 triggers = {'^scroll':scroll}
 
 

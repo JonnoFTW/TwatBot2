@@ -2,9 +2,10 @@
 from collections import Counter
 import re
 import random
+from datetime import datetime
 triggers = {}
 regex = re.compile("\x03(?:\d{1,2}(?:,\d{1,2})?)?", re.UNICODE)
-import cPickle
+import pickle
 def default(conn, data):
     cleaned = regex.sub("",data['msg'])
     if "ÂÊÎÔÛâêîôûĈĉĜĝĤĥĴĵŜŝŴŵŶŷˆ̭̂᷍ḒḓḘḙḼḽṊṋṰṱṶṷẐẑẤấẦầẨẩẪẫẬậẾếỀềỂểỄễỆệỐốỒồỔổỖỗỘộ⨣⨶⩯ꞈ" in cleaned:
@@ -17,20 +18,26 @@ def default(conn, data):
         return
     if data['chan'] in conn.chans:
         try:
-            if random.randint(0,10) == 1 and conn.tbbt:
+            roll = random.randint(0,30)
+            if conn.zizek and roll == 5:
+                conn.msg(data['chan'],'\001ACTION '+random.choice(['Touches face', 'sniff'])+'\001')
+            elif random.randint(0,10) == 1 and conn.tbbt:
                 laughs = ['studio laughter','ZIMBABWE','BAZINGA','BAZINGO','BAZOOPER','BOJANGLES','JUMANJI','BASPINGO','BASPINGLE','BAZZANGO','DAPRINGLES','BAZPOOPER']
                 conn.msg(data['chan'],'\001ACTION '+random.choice(laughs)+'\001') 
         except:
             conn.tbbt = False
         c = 0
-        detections = []
-        for i in conn.chans[data['chan']]['users']:
+        chan = data['chan']
+        detections = conn.chans[chan]['highlights'].get(data['fool'],[])
+        # remove any detections older than 10s
+        detections = [d for d in detections if (datetime.now()-d[1]).total_seconds() < 10]
+        for i in conn.chans[chan]['users']:
             if i in cleaned:
-                detections.append(i)
-                c += 1
+                detections.append((i,datetime.now()))
+        conn.chans[chan]['highlights'][data['fool']] = detections
         if detections:
-            print "Detected in "+data['chan']+": "+(' '.join(detections))
-        if c > 5:
+            print("Detected in "+data['chan']+": "+(' '.join([d[0] for d in detections])))
+        if len(detections) > 5:
             msgs = ["100% MAVERICK",
                     "I TOLD YOU DAWG, I TOLD YOU ABOUT THE HERESY",
                     "You're attitude is not conductive too the acquired stratosphere",
@@ -42,9 +49,11 @@ def default(conn, data):
                     "TRY GETTING A RESERVATION AT PERWLCON NOW YOU STUPID FUCKING BASTARD!"]
             conn.msg(data['chan'],"Banning "+data['fool']+" for mass highlight")
             conn.msg("chanserv"," ".join(["ban",data['chan'],data['fool'],random.choice(msgs)]))
+    if "https://bryanostergaard.com/" in cleaned:
+        conn.msg("chanserv", " ".join(["ban", data['chan'], data['fool'], "Fuck off"]))
     if conn.nazi:
         try:
-            for i in map(lambda x: x.lower(),cleaned.split()):
+            for i in [x.lower() for x in cleaned.split()]:
                 if i in conn.mistakes:
                     count = conn.chans[data['chan']]['spellers'][data['fool']]
                     conn.msg(data['chan'],data['fool']+ ": it's spelt '"+conn.mistakes[i]+"'. This was warning "+str(count)+"/10")
@@ -53,10 +62,10 @@ def default(conn, data):
                         conn.msg("chanserv"," ".join(["kick",data['chan'],data['fool'],"Come back when you've started spelling properly."]))
                         conn.chans[data['chan']]['spellers'][data['fool']] = 0
                     break
-        except AttributeError, e:
+        except AttributeError as e:
             conn.mistakes = None
             conn.chans[data['chan']]['spellers'] = Counter() # map users to their spelling mistakes
             pkl = open('plugins/mistakes.pkl','rb')
-            conn.mistakes = cPickle.load(pkl)
+            conn.mistakes = pickle.load(pkl)
             conn.msg(data['chan'],"loaded spellings")
             pkl.close()

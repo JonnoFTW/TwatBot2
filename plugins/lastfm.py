@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 
-from urllib2 import urlopen
-from urllib  import quote, quote_plus, urlencode
+from urllib.request import urlopen
+from urllib.parse import quote, quote_plus, urlencode
 import json
 
+from .web import img
 help = "Various functions for last.fm. Use ^np <user> to get a users last played track." 
 
 def compare(conn,data):
@@ -16,11 +17,11 @@ def compare(conn,data):
         n1 = conn.getName(data['fool'],'lastfm')
         n2 = conn.getName(data['words'][1],'lastfm')
     elif l >= 3:
-        print data
+        print(data)
         n1 = conn.getName(data['words'][1],'lastfm')
         n2 = conn.getName(data['words'][2],'lastfm')
     url = "http://ws.audioscrobbler.com/2.0/?method=tasteometer.compare&format=json&api_key=%s&type1=user&type2=user&value1=%s&value2=%s"%(conn.factory.keys['lastfm_api_key'],n1,n2)
-    print url
+    print(url)
     u = json.load(urlopen(url))
     input = u['comparison']['input']['user']
     result = u['comparison']['result']
@@ -33,9 +34,9 @@ def compare(conn,data):
             artists.append(i["name"].encode('utf-8'))
     except:
         pass
-    conn.msg(data['chan'],u"\0030,4Last.fm\003 Comparison of {} and {}. Score: {:.2%}, matches: {}, common artists: {}".format(input[0]['name'], input[1]['name'],float(result['score']),matches,', '.join(artists)))
-                        
-        
+    conn.msg(data['chan'],"\0030,4Last.fm\003 Comparison of {} and {}. Score: {:.2%}, matches: {}, common artists: {}".format(input[0]['name'], input[1]['name'],float(result['score']),matches,', '.join(artists)))
+
+
 def np(conn, data):
     #get now playing info for a user
     key = conn.factory.keys['lastfm_api_key']
@@ -47,19 +48,19 @@ def np(conn, data):
 #    name = n
     #Get the users now playing shit
     u = json.load(urlopen("http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user="+quote(name.encode("utf-8"))+"&format=json&api_key="+key))
+    print(json.dumps(u['recenttracks']['track'][0],indent=4))
     try:
         if u['recenttracks']['total'] == '0':
             conn.msg(data['chan'],"This user (%s) has nothing played"%(name))
-#            print u
             return
-    except KeyError: 
+    except KeyError:
         pass
     try:
 #        print u
         track = u['recenttracks']['track'][0]
     except KeyError:
         if 'message' in u:
-            conn.msg(data['chan'],u['message']+", error:"+u['error']+", user"+name)
+            conn.msg(data['chan'],"{}, error {} user {}".format(u['message'], u['error'],name))
         else:
             conn.msg(data['chan'],"No user by that name")
         return
@@ -77,25 +78,30 @@ def np(conn, data):
     for url in urls:
       try:
           t = json.load(urlopen("http://ws.audioscrobbler.com/2.0/?"+urlencode(url)))
-          tags = ', '.join(map(lambda x:x['name'],t['toptags']['tag'][:5]))
+          tags = ', '.join([x['name'] for x in t['toptags']['tag'][:5]])
           break
       except (TypeError, KeyError):
-          tags = 'No tags available' 
+          tags = 'No tags available'
           continue
     if track['album']['#text']:
-        track['album']['#text'] = " from '"+ track['album']['#text']+"'"   
+        track['album']['#text'] = " from '"+ track['album']['#text']+"'"
     curr = "is now pegging"
     if '@attr' not in track:
         curr = "last pegged"
 #    print json.dumps(track,indent=4)
-    conn.msg(data['chan'],"\0030,4Last.fm\003 User '%s' %s to '%s' by '%s'%s, (%s)" % (name,curr,track['name'],track['artist']['#text'],track['album']['#text'],tags)) 
-
+    conn.msg(data['chan'],"\0030,4Last.fm\003 User '%s' %s to '%s' by '%s'%s, (%s)" % (name,curr,track['name'],track['artist']['#text'],track['album']['#text'],tags))
+    img_url = track['image'][-1]['#text']
+    data['words'] = ['^imgt', img_url]
+#    conn.msg(data['chan'],img_url)
+    if track['album']['mbid'] and img_url:
+        img(conn,data)
+    #conn.msg(data['chan'],'^view '+img_url)
 def setlastfm(conn, data):
     #Associate your nick with a username
     try:
         conn.setName(data,data['fool'],data['words'][1],'lastfm')
-    except IndexError:
-        print e
+    except IndexError as e:
+        print(e)
         conn.msg(data['chan'],"Please provide your lastfm username")
 def lastfm(conn, data):
     #Get info about an artists or something
@@ -116,9 +122,9 @@ def charts(conn, data):
     for i in u[key]['artist']:
         try:
             artists.append("{}: {:,.0f}".format(i['name'],int(i['playcount'])))
-            print artists[-1]
-        except Exception, e:
-            print i['name'], e
+            print(artists[-1])
+        except Exception as e:
+            print(i['name'], e)
             pass
     pre = ' '
     if user:

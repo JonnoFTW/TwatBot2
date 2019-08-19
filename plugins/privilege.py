@@ -29,7 +29,7 @@ def addpriv(conn,data):
     with open('plugins/bmp.dat','a+') as f:
         l = f.readlines()
         c = l[-1].split()[0][:-1]
-        print c
+        print(c)
         priv = ' '.join(data['words'][1:])
         line = str(int(c)+1)+'. '+priv+'\n'
         f.write(line)

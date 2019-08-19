@@ -6,13 +6,13 @@ def reloadgreet(conn,data):
             conn.factory.greets[j[0]] = ' '.join(j[1:])
     conn.msg(data['chan'],"reloaded greets")
 def testgreets(conn,data):
-    print conn.greets
+    print(conn.greets)
 def join(conn, data):
     try:
         chan = data['words'][1]
         if chan[0] != '#':
             conn.msg(data['chan'],"Channels must start with a #")
-        elif chan in conn.chans.keys():
+        elif chan in list(conn.chans.keys()):
             conn.msg(data['chan'],'Eye\'m already in that channel')
         else:
             conn.join(chan)
@@ -22,7 +22,7 @@ def join(conn, data):
 def part(conn, data):
     try:
         chan = data['words'][1]
-        if chan not in conn.chans.keys():
+        if chan not in list(conn.chans.keys()):
             conn.msg(data['chan'],'Eye\'m not in that channel')
         else:
             del conn.chans[chan]
